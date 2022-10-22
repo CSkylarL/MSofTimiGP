@@ -3,7 +3,7 @@ This includes all codes and data used in TimiGP manuscript.
   1. `.R` files: R codes to generate the corresponding figures.
   2. `Fig` folders: data and original figures
      - `.rda` files: prerequisite or intermediate data during analysis.
-     - `.txt` files: intermediate table during analysis.
+     - `.txt` or `.csv` files: intermediate table during analysis.
      - `.pdf` files: original figures.
 
 ## TimiGP 
