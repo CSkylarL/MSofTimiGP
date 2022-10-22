@@ -1,0 +1,2272 @@
+Name	Cell Specificity
+3'HEXO	Multiple
+3'HEXO	Lymphoid
+a1/3GTP	Dendritic Cell
+A2MP	Multiple
+ABCC1 	Myeloid
+ABHD2	Myeloid
+ABL2 	Myeloid
+ABTB1	Neutrophil
+ABTB1	Neutrophil
+ABTB2	Dendritic Cell
+ACAT2	Multiple
+ACP5	Myeloid
+ACTR2	Multiple
+ACTR2	Multiple
+ACTR2	Multiple
+ACTR3 	Multiple
+AD023	Multiple
+AD158	Multiple
+ADAM12	Dendritic Cell
+ADAM19	Multiple
+ADAM8	Multiple
+ADCY7	Multiple
+ADORA2A	Myeloid
+AFURS1	Monocyte
+AFURS1	Monocyte
+AFURS1 	Monocyte
+AGPS	Multiple
+AIF1	Myeloid
+AIF1	Myeloid
+AIF1	Myeloid
+AIM2	Lymphoid
+AKAP13	Multiple
+AKNA	Multiple
+ALG2	Multiple
+ALG5	B Cell
+ALOX15	Dendritic Cell
+ALOX5	Multiple
+AMICA	Myeloid
+AMID	Myeloid
+AMPD1	B Cell
+AMPD2	Neutrophil
+AMPD3	Myeloid
+ANKRD13 	Multiple
+Annexin II 	Lymphoid
+ANP32A	Multiple
+ANP32E	Lymphoid
+ANP32E	Lymphoid
+AP1	B Cell
+AP1GBP1	Lymphoid
+AP1GBP1	Multiple
+AP1S2	Monocyte
+AP2S1	Myeloid
+APBB1IP	Multiple
+APG7L	Myeloid
+APOBEC3A	Myeloid
+APOBEC3A	Lymphoid
+APOBEC3G	Multiple
+ARF6	Multiple
+ARH	T Cell
+ARH	T Cell
+ARHG	Myeloid
+ARHGAP15	Multiple
+ARHGAP18	Myeloid
+ARHGAP25 	Multiple
+ARHGAP25 	Multiple
+ARHGAP9	Multiple
+ARHGAP9	Multiple
+ARHGAP9	Multiple
+ARHH	Multiple
+ARL2	Multiple
+ARL7	Lymphoid
+ARL7	Lymphoid
+ARL7	Lymphoid
+ARNTL2	Multiple
+ARPC5	Multiple
+ARPC5L	Lymphoid
+ARPC5L	Lymphoid
+ARRB2 	Multiple
+ASF1B	Multiple
+ASPM	T Cell
+ASXL1	Lymphoid
+ATM	Lymphoid
+ATM	Lymphoid
+ATM	Lymphoid
+ATP2B1	Myeloid
+ATP6V1A	Myeloid
+ATP6V1C1	Myeloid
+AXOT	Multiple
+B4GALT3 	B Cell
+BACH1	Multiple
+BACH2	Lymphoid
+BACH2	Lymphoid
+BACH2 	Lymphoid
+BACH2 	Lymphoid
+BAFFR	B Cell
+BAL	Multiple
+BANK1	B Cell
+BANK1	B Cell
+BANP	Myeloid
+BANP	Myeloid
+BANP	Myeloid
+BAT4	Multiple
+BATF	Lymphoid
+BAZ1A	Multiple
+BCL11A	Multiple
+BCL11A	B Cell
+BCL11B	Lymphoid
+BCL11B	T Cell
+BCL11B	Lymphoid
+BCL2 	Multiple
+BCL2A1	Myeloid
+BCL2L11 	Multiple
+BCL6	Myeloid
+BCL6 	Multiple
+BCL6 	Myeloid
+BCMA	B Cell
+BCNP1	B Cell
+BHLHB2	Lymphoid
+BHLHB3	Monocyte
+BIC	Multiple
+BID	Myeloid
+BID	Myeloid
+BID	Myeloid
+BIN2	Multiple
+BIRC1	Myeloid
+BIRC3	Multiple
+BIRC3	Multiple
+BLK	B Cell
+BLNK	B Cell
+BLP1	Myeloid
+BLVRA	Myeloid
+BM-009	Multiple
+BMP8B 	B Cell
+BRAG 	Multiple
+BRD2	Multiple
+BRDG1	B Cell
+BRIP1 	Multiple
+BTLA	Lymphoid
+BTN3A2	Multiple
+BTN3A2	Lymphoid
+BTN3A3	Lymphoid
+BUB3	Multiple
+BUB3	Lymphoid
+C10orf9	Multiple
+C10orf9	Multiple
+C11orf21	Multiple
+C12orf14	Multiple
+C12orf5	Multiple
+C13orf18	Multiple
+C13orf18	Multiple
+C14orf106	Multiple
+C14orf109	Myeloid
+C14orf118	Multiple
+C14orf138	B Cell
+C14orf58	Myeloid
+C14orf61	Lymphoid
+C19orf10	B Cell
+C19orf10	B Cell
+C1D	Multiple
+C1orf19	Multiple
+C1orf22	Multiple
+C1orf24	Myeloid
+C1orf29	Multiple
+C1orf33	Lymphoid
+C1orf33	Multiple
+C1orf38	Myeloid
+C1orf38	Multiple
+C1QBP	Lymphoid
+C20orf139	Myeloid
+C20orf31	B Cell
+C21orf106	Lymphoid
+C21orf42	Monocyte
+C21orf45	T Cell
+C21orf83B 	B Cell
+C21orf91	Multiple
+C2orf6	Multiple
+C2orf6	Multiple
+C5orf6	Neutrophil
+C5R1	Myeloid
+C6orf107	Myeloid
+C6orf129	Lymphoid
+C6orf187	Multiple
+C6orf187	Multiple
+C6orf32	Multiple
+C6orf32	Multiple
+C6orf67	Multiple
+C6orf68	Multiple
+C6orf69	Multiple
+C9orf19	Multiple
+C9orf72	Myeloid
+CAMK1D	Myeloid
+CAMK4 	T Cell
+CAMP	Multiple
+cAMP-REBP	Multiple
+CANX 	Multiple
+CAP1	Multiple
+CAPG	Myeloid
+CARD11	Lymphoid
+CARD11	Lymphoid
+CARP-1	Multiple
+CASP1 	Monocyte
+CASP2	Multiple
+CASP3	Multiple
+CASP8	Multiple
+CBL	Multiple
+CBLB	Lymphoid
+CBR3	Dendritic Cell
+CBX3	Lymphoid
+CBX5 	Multiple
+CCDC5	T Cell
+CCL1	Multiple
+CCL13	Dendritic Cell
+CCL17	Dendritic Cell
+CCL19	Myeloid
+CCL20	Multiple
+CCL22	Myeloid
+CCL24	Monocyte
+CCL3	Multiple
+CCL4	Multiple
+CCL5	Multiple
+CCL5 	Multiple
+CCL8	Multiple
+CCNA2	T Cell
+CCNA2	T Cell
+CCNB1	T Cell
+CCNB1	T Cell
+CCNB2	T Cell
+CCND2	Lymphoid
+CCND2	Lymphoid
+CCR1	Multiple
+CCR1	Multiple
+CCR2	Multiple
+CCR3	Neutrophil
+CCR5	Multiple
+CCR7	Multiple
+CCRL2 	Monocyte
+CCT2	Multiple
+CD160	Lymphoid
+CD164	Multiple
+CD19	B Cell
+CD1A	Dendritic Cell
+CD1B	Dendritic Cell
+CD1C	Multiple
+CD1D	Monocyte
+CD1E	Dendritic Cell
+CD1E	Dendritic Cell
+CD2	Lymphoid
+CD20	B Cell
+CD20	B Cell
+CD20	B Cell
+CD20	B Cell
+CD20	B Cell
+CD244	NK Cell
+CD37	Multiple
+CD38	Multiple
+CD3D	T Cell
+CD3E	T Cell
+CD3G	T Cell
+CD3Z	Lymphoid
+CD44	Multiple
+CD44	Multiple
+CD44	Multiple
+CD44	Multiple
+CD44	Multiple
+CD48	Multiple
+CD5	T Cell
+CD53 	Multiple
+CD58	Multiple
+CD58	Myeloid
+CD58	Multiple
+CD58 	Multiple
+CD6	T Cell
+CD6	T Cell
+CD6	T Cell
+CD69	Lymphoid
+CD69	Lymphoid
+CD7	Lymphoid
+CD7	Lymphoid
+CD74 	Multiple
+CD79A	B Cell
+CD79B	B Cell
+CD80	Myeloid
+CD80	Myeloid
+CD82 	Multiple
+CD83	Multiple
+CD84	Multiple
+CD84	Multiple
+CD84	Multiple
+CD86	Myeloid
+CD86	Dendritic Cell
+CD86	Myeloid
+CD8A	T Cell
+CD8B1	T Cell
+CD8B1	T Cell
+CD96 	Lymphoid
+CD97	Multiple
+CDA	Neutrophil
+CDC2	T Cell
+CDC2	T Cell
+CDC2	T Cell
+CDC25B	Lymphoid
+CDC42	Multiple
+CDC5L	Multiple
+CDCA1	T Cell
+CDCA2 	T Cell
+CDCA5	T Cell
+CDK5RAP2	Monocyte
+CDK5RAP2	Monocyte
+CDK6 	Lymphoid
+CDK6 	Lymphoid
+CDK6 	Lymphoid
+CDK6 	Multiple
+CDK6 	Multiple
+CDKN1A	Myeloid
+CDKN2D	Multiple
+CDT1 	Lymphoid
+CDW52	Multiple
+CDW52	Multiple
+CEB1	Multiple
+CECR1	Multiple
+CENPH	Lymphoid
+CENTA2	Myeloid
+CENTB1	Multiple
+CENTB2	Multiple
+CENTD2	Myeloid
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CFLAR	Multiple
+CG018	Dendritic Cell
+CGI-09	Lymphoid
+CGI-09	Multiple
+CGI-109	Myeloid
+CGI-127 	Multiple
+CGI-37	Multiple
+CHC1L	Multiple
+CHEK1 	Lymphoid
+CHI3L1	Myeloid
+CHORDC1	Multiple
+CHS1	Multiple
+CHS1	Multiple
+CHST11 	Multiple
+CHST11 	Multiple
+CHST12	NK Cell
+CHST12	Lymphoid
+CHST2	Multiple
+CHST7	Dendritic Cell
+cig5	Myeloid
+cig5	Multiple
+CISH	Lymphoid
+CISH	Lymphoid
+CKAP4	Multiple
+CKLF	Multiple
+CKLF	Multiple
+CKLF	Myeloid
+CKLFSF2	Neutrophil
+CKLFSF8 	Multiple
+CKS2	Lymphoid
+CLC	Neutrophil
+CLECSF12	Myeloid
+CLECSF13	Dendritic Cell
+CLECSF2	Multiple
+CLECSF5	Monocyte
+CLECSF6	Myeloid
+CLECSF6	Myeloid
+CLECSF9	Myeloid
+CLIC2	Dendritic Cell
+CLIC3	NK Cell
+CLN2	Multiple
+CLN8	Myeloid
+CLN8	Myeloid
+CMRF-35H	Multiple
+CMRF-35H	Multiple
+CNAP-1	Multiple
+CNO	Multiple
+CNOT10	Dendritic Cell
+CNOT6L	Multiple
+COL4A3BP 	Myeloid
+COP1	Myeloid
+COPEB	B Cell
+COPEB	B Cell
+CORO1A	Multiple
+CORO1C	Myeloid
+COTL1	Multiple
+COTL1	Multiple
+CPM	Myeloid
+CPNE5	B Cell
+CPO	T Cell
+CPSF5	Lymphoid
+CPVL	Myeloid
+CR1L 	Multiple
+CREB5 	Myeloid
+CREB5 	Neutrophil
+CREG	Myeloid
+CRLF2	Dendritic Cell
+CRLF3	Multiple
+CRSP3	Lymphoid
+CRTAM	Multiple
+CSF1	Multiple
+CSF1R	Myeloid
+CSF2	Multiple
+CSF2RA	Myeloid
+CSF2RA	Myeloid
+CSF2RA	Myeloid
+CSF2RB 	Multiple
+CSF3R	Myeloid
+CSK	Multiple
+CSNK1G1	Multiple
+CSPG2	Monocyte
+CSPG2	Monocyte
+CSPG2	Monocyte
+CSPG2	Monocyte
+CSPG2	Monocyte
+CST7	Multiple
+CSTA	Myeloid
+CTBS	Neutrophil
+CTBS	Neutrophil
+CTL1	Multiple
+CTLA4	T Cell
+CTLA4	T Cell
+CTLA4	T Cell
+CTLA4	T Cell
+CTSB	Myeloid
+CTSC	Multiple
+CTSD	Monocyte
+CTSL	Monocyte
+CTSS	Multiple
+CTSS	Multiple
+CTSW	Lymphoid
+CTSZ	Myeloid
+CUGBP2	Multiple
+CUGBP2 	Multiple
+CUGBP2 	Multiple
+CUGBP2 	Multiple
+CUL1	Multiple
+CX3CR1	Multiple
+CXCL1	Monocyte
+CXCL10	Multiple
+CXCL11	Dendritic Cell
+CXCL11	Multiple
+CXCL3	Monocyte
+CXCL5	Monocyte
+CXCL5	Monocyte
+CXCL9	Multiple
+CXCR4	Multiple
+CXCR4	Multiple
+CXCR4	Multiple
+CXCR5	B Cell
+CXCR6	T Cell
+CXCR6	T Cell
+CXorf9	Multiple
+CYBA	Multiple
+CYBB	Myeloid
+CYBB	Monocyte
+CYLD	Multiple
+CYP1B1	Myeloid
+CYP1B1	Myeloid
+CYP1B1	Myeloid
+CYP1B1	Myeloid
+CYSLTR1	Multiple
+CYSLTR1	Multiple
+DAF 	Multiple
+DAPP1	Myeloid
+DAPP1	Myeloid
+DAPP1	Multiple
+DCAL1	Multiple
+DCNP1	Dendritic Cell
+DCNP1	Dendritic Cell
+DcR1	Neutrophil
+DcR1	Neutrophil
+DcR1	Neutrophil
+DcR1	Neutrophil
+DCSTAMP	Myeloid
+DDEF1	Myeloid
+DDEF1	Myeloid
+DDEF1	Myeloid
+DDEF1	Monocyte
+DDEF1	Myeloid
+DDEF1	Myeloid
+DDHD1	Multiple
+DDOST	B Cell
+DDX17 	Multiple
+DDX17 	Multiple
+DDX21	Lymphoid
+DDX39	Multiple
+DDX41 	Myeloid
+DEDD2	Multiple
+DEF6	Multiple
+DEFA3	Multiple
+DEFA4	Lymphoid
+DENR	Multiple
+DESR1 	Multiple
+DFNA5	Monocyte
+DGKA 	T Cell
+DGKA 	T Cell
+DHX33	T Cell
+DHX36	Multiple
+DIRC2	Myeloid
+DKC1	Lymphoid
+DKFZp313J1810 	Multiple
+DKFZP434B195	Multiple
+DKFZP434H132	Myeloid
+DKFZp547A023	Multiple
+DKFZp547E052	Multiple
+DKFZP564J0863	Multiple
+DKFZP564O0463	Lymphoid
+DKFZP566A1524	Myeloid
+DKFZp667L0210 	Multiple
+DKFZp667L0210 	B Cell
+DKFZp686E1929 	Multiple
+DKFZP761E1824	Multiple
+DKFZp761K1824	T Cell
+DKFZp761P0423	Multiple
+DKFZp762C1112 	Lymphoid
+DNAH3	Multiple
+DNAJ	Multiple
+DNAJB1	T Cell
+DNAJC1	Lymphoid
+DNAJC3 	Multiple
+DNCH1	Multiple
+DNMT1	Multiple
+DOCK10 	Multiple
+DOCK2	Multiple
+DOCK5 	Myeloid
+DOCK8	Multiple
+DOCK8	Multiple
+DPEP2	Myeloid
+DPYD	Myeloid
+DRAK2	Multiple
+DREV1	Myeloid
+DSIPI	Multiple
+DTNB	B Cell
+DTR	Monocyte
+DTR	Monocyte
+DUFD1	T Cell
+DUSP2	T Cell
+DUSP4	Multiple
+DUSP4	Multiple
+DUSP5	Multiple
+DUSP6	Monocyte
+DUT	Lymphoid
+DYRK2	Multiple
+EAF1 	Multiple
+EAF2	B Cell
+EBI2	Multiple
+EBI3	Myeloid
+ECGF1	Myeloid
+EDG6	Multiple
+EDG8	Lymphoid
+EED	Multiple
+EGFL5	Myeloid
+EGLN1	Multiple
+EGLN3	T Cell
+EHD4 	Dendritic Cell
+EHD4 	Myeloid
+EIF2AK3	B Cell
+EIF2C2	Multiple
+EIF2S3	Multiple
+EIF5 	Multiple
+EIF5A	Multiple
+EIF5A	Multiple
+EIF5B	Multiple
+ELF1	Multiple
+ELF4 	Multiple
+ELL2	B Cell
+ELLP3030 	Multiple
+EMILIN2	Myeloid
+EMR2	Myeloid
+EMR2 	Myeloid
+ENO1 	Multiple
+ENTPD1	Multiple
+ENTPD1	Multiple
+EOMES	Lymphoid
+EPC1 	Lymphoid
+EREG	Monocyte
+ERN1	B Cell
+ERO1L	Multiple
+ERP70	B Cell
+EST	Dendritic Cell
+EST	Dendritic Cell
+EST	Monocyte
+EST	Myeloid
+EST	Neutrophil
+EST	Multiple
+EST	Dendritic Cell
+EST	Multiple
+EST	Lymphoid
+EST	B Cell
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	T Cell
+EST	Multiple
+EST	Multiple
+EST	Myeloid
+EST	Lymphoid
+EST	Multiple
+EST	Myeloid
+EST	Dendritic Cell
+EST	Multiple
+EST	Multiple
+EST	Monocyte
+EST	Lymphoid
+EST	Multiple
+EST	Multiple
+EST	B Cell
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Lymphoid
+EST	Lymphoid
+EST	Multiple
+EST	Multiple
+EST	Myeloid
+EST	Lymphoid
+EST	Lymphoid
+EST	Lymphoid
+EST	Myeloid
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Lymphoid
+EST	B Cell
+EST	Multiple
+EST	Monocyte
+EST	Multiple
+EST	Multiple
+EST	Lymphoid
+EST	Multiple
+EST	Monocyte
+EST	Multiple
+EST	Multiple
+EST	Lymphoid
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	T Cell
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Multiple
+EST	Myeloid
+EST	Myeloid
+EST	Myeloid
+EST	Multiple
+EST	Lymphoid
+EST	Multiple
+EST	Multiple
+EST	B Cell
+EST	Multiple
+EST	Lymphoid
+EST	Multiple
+ETV6 	Myeloid
+EVER1	Lymphoid
+EVER1	Multiple
+EVER2	Lymphoid
+EVER2	Lymphoid
+EVI2A	Multiple
+EVI2B	Multiple
+EVL	Multiple
+EZI	Myeloid
+FABP5	Multiple
+FAD104	Multiple
+FAD104	Myeloid
+FAD104	Multiple
+FAD104	Multiple
+FALZ	Multiple
+FAM29A	Lymphoid
+FAM31B 	Multiple
+FANCD2 	Lymphoid
+FBXO18	B Cell
+FBXO5	Lymphoid
+FBXO6	Multiple
+FCAR	Myeloid
+FCER1A	Multiple
+FCGR2A 	Multiple
+FCGR2A 	Myeloid
+FCGR2B	Neutrophil
+FCGR2B	Multiple
+FCGR3B	Neutrophil
+FCGR3B	Neutrophil
+FCN1	Myeloid
+FCRH1	B Cell
+FCRH1	B Cell
+FCRH2	B Cell
+FCRH3	Lymphoid
+FDX1	Multiple
+FEN1	Lymphoid
+FEN1	Lymphoid
+FEZ2	Myeloid
+FGD3	Multiple
+FGL2	Myeloid
+FGL2	Myeloid
+FGR	Multiple
+FIGNL1	Multiple
+FKBP11	B Cell
+FKSG14	Lymphoid
+FKSG79 	Lymphoid
+FLI1	Multiple
+FLJ00012	Myeloid
+FLJ00012	Multiple
+FLJ00012	Multiple
+FLJ00012 	Multiple
+FLJ00012 	Multiple
+FLJ00332 	Multiple
+FLJ10116	Myeloid
+FLJ10116	Myeloid
+FLJ10290	Multiple
+FLJ10298	Neutrophil
+FLJ10330	Multiple
+FLJ10357	Myeloid
+FLJ10357	Myeloid
+FLJ10420	Multiple
+FLJ10486	Multiple
+FLJ10486	Multiple
+FLJ10486	Multiple
+FLJ10525	Multiple
+FLJ10599	Multiple
+FLJ10702	Myeloid
+FLJ10795 	Multiple
+FLJ10874	Myeloid
+FLJ10998	Multiple
+FLJ11029	T Cell
+FLJ11151	Myeloid
+FLJ11151	Myeloid
+FLJ11151	Myeloid
+FLJ11175 	Multiple
+FLJ11663 	Myeloid
+FLJ12619	Multiple
+FLJ12643	Lymphoid
+FLJ12666	Multiple
+FLJ12666	Multiple
+FLJ12666	Multiple
+FLJ12671	Multiple
+FLJ12835 	Multiple
+FLJ12975	Multiple
+FLJ12994 	Lymphoid
+FLJ13052	Myeloid
+FLJ13052	Myeloid
+FLJ13081	Multiple
+FLJ13089	Dendritic Cell
+FLJ13089	Dendritic Cell
+FLJ13855	Multiple
+FLJ14153	Myeloid
+FLJ14281	Multiple
+FLJ14803	Multiple
+FLJ16025 	Multiple
+FLJ20073 	Multiple
+FLJ20202	B Cell
+FLJ20202	B Cell
+FLJ20249	Lymphoid
+FLJ20249	T Cell
+FLJ20273 	Monocyte
+FLJ20481	Myeloid
+FLJ20481	Myeloid
+FLJ20481	Myeloid
+FLJ20647	Multiple
+FLJ20668 	Multiple
+FLJ20668 	Multiple
+FLJ20686 	Myeloid
+FLJ20696	Multiple
+FLJ20701	Monocyte
+FLJ20719	Multiple
+FLJ20719	Multiple
+FLJ20847	Myeloid
+FLJ21308	Multiple
+FLJ21308 	Multiple
+FLJ21438	Lymphoid
+FLJ21924	Multiple
+FLJ22313	Multiple
+FLJ22329	Myeloid
+FLJ22368	Myeloid
+FLJ22457	Lymphoid
+FLJ22557	Multiple
+FLJ22573	Multiple
+FLJ22625	B Cell
+FLJ22649	Multiple
+FLJ22662	Myeloid
+FLJ22833	Multiple
+FLJ22833	Multiple
+FLJ23230	Dendritic Cell
+FLJ23235	B Cell
+FLJ23560 	Multiple
+FLJ23560 	Multiple
+FLJ25348	Myeloid
+FLJ31033	Myeloid
+FLJ31051	Multiple
+FLJ31238 	Multiple
+FLJ31364	B Cell
+FLJ31413	Myeloid
+FLJ31821	Multiple
+FLJ31978	Myeloid
+FLJ32028	Myeloid
+FLJ32255 	Lymphoid
+FLJ32332	Multiple
+FLJ32370 	Multiple
+FLJ32704	Myeloid
+FLJ33069	Multiple
+FLJ33215 	Multiple
+FLJ35936 	Dendritic Cell
+FLJ36837	Lymphoid
+FLJ36837	Lymphoid
+FLJ36874	Multiple
+FLJ37142 	Multiple
+FLJ37970 	Multiple
+FLJ38331 	Multiple
+FLJ38499	Multiple
+FLJ38499	Multiple
+FLJ38725	Myeloid
+FLJ39485 	Multiple
+FLJ39622 	Multiple
+FLJ39739 	Lymphoid
+FLJ39873	Lymphoid
+FLJ39885	Multiple
+FLJ39885	Multiple
+FLJ39885	Multiple
+FLJ39885 	Multiple
+FLJ40432	Myeloid
+FLJ40432	Myeloid
+FLJ40614 	Dendritic Cell
+FLJ41238	Multiple
+FLJ43842 	B Cell
+FLJ90005	Myeloid
+FLJ90005	Myeloid
+FLN29	Dendritic Cell
+FLN29	Dendritic Cell
+FLN29	Dendritic Cell
+FLOT2	Multiple
+FMNL1	Multiple
+FNBP1 	Multiple
+FNBP2 	Dendritic Cell
+FNBP3	Multiple
+FNBP3	Multiple
+FPR1	Myeloid
+FPRL1	Neutrophil
+FPRL1	Myeloid
+FPRL2	Myeloid
+FPRL2	Myeloid
+FRAT1	Myeloid
+FRAT2	Neutrophil
+FREB	B Cell
+FREB	B Cell
+FREB	B Cell
+FSCN1	Dendritic Cell
+FSCN1	Dendritic Cell
+FTHFSDC1	T Cell
+FUS	Lymphoid
+FUT11 	Multiple
+FXYD5 	Multiple
+FYB 	Multiple
+FYB 	Multiple
+FYB 	Multiple
+FYB 	Myeloid
+FYN 	Multiple
+G1P3 	Dendritic Cell
+G6PD	Multiple
+GALNACT-2	Multiple
+GARNL1 	Myeloid
+GARNL1 	Myeloid
+GBP1	Multiple
+GBP1	Multiple
+GBP2	Multiple
+GBP5	Multiple
+GBP5	Multiple
+GCA	Myeloid
+GG2-1	Multiple
+GG2-1	Multiple
+GITR	Lymphoid
+GITR	Lymphoid
+GJB2	Monocyte
+GLA	Myeloid
+GLCCI1 	Lymphoid
+GLCCI1 	Lymphoid
+GLCCI1 	Lymphoid
+GLIPR1	Multiple
+GLIPR1	Multiple
+GLIPR1	Multiple
+GLIPR1	Multiple
+GLS	Multiple
+GM2A	Myeloid
+GM2A	Myeloid
+GM2A	Myeloid
+GM2A	Myeloid
+GM2A	Myeloid
+GM2A	Myeloid
+GMFB	Myeloid
+GMIP	Multiple
+GMPPB	Lymphoid
+GNA15	Monocyte
+GNAS 	Multiple
+GNB4	Multiple
+GNG10	Myeloid
+GNG2	Lymphoid
+GNG2 	Multiple
+GNG7	B Cell
+GNLY	Lymphoid
+GNLY	Lymphoid
+GNRH1 	Myeloid
+GNRH1 	Myeloid
+GNS	Myeloid
+GNS	Myeloid
+GPR109B 	Myeloid
+GPR114	Lymphoid
+GPR132	Multiple
+GPR15	T Cell
+GPR18	Lymphoid
+GPR27	Neutrophil
+GPR43	Neutrophil
+GPR65	Multiple
+GPR68 	Multiple
+GPR84	Monocyte
+GPR86	Myeloid
+GPRC5D	B Cell
+GRAF	Myeloid
+GRB2	Multiple
+GRB2	Multiple
+GRINA	Myeloid
+GRSF1	Dendritic Cell
+GRSF1	Dendritic Cell
+GSN 	Myeloid
+GSPT1	Multiple
+GTF2A1 	Multiple
+GTPBP3 	Multiple
+GTPBP4	Lymphoid
+GTPBP4	Lymphoid
+GZMA	Lymphoid
+GZMB	Lymphoid
+GZMH 	Lymphoid
+GZMK	T Cell
+GZMM	Lymphoid
+H2AFX	T Cell
+H2AFY	Multiple
+H2AFY	Multiple
+H2AFZ	Multiple
+H41	Multiple
+H6PD 	Dendritic Cell
+H963	Multiple
+HAVCR1	Multiple
+HCK	Myeloid
+HCLS1	Multiple
+HCST	Multiple
+HDGFRP3	T Cell
+HECA	Multiple
+helios-3	Lymphoid
+HELLS	Lymphoid
+HELLS	Lymphoid
+HELLS	Lymphoid
+HEM1	Multiple
+HEM1	Multiple
+HGFL	T Cell
+HGLF	Lymphoid
+hIAN2	Multiple
+hIAN2	Lymphoid
+hIAN7	Multiple
+hIk-1	Multiple
+hIk-1	Multiple
+HIMAP2	Multiple
+HIMAP4	Multiple
+HIPK1 	Multiple
+HIPK2	Multiple
+HK3	Myeloid
+HLA-A	Multiple
+HLA-DOB	Multiple
+HLA-DPA1 	Multiple
+HLA-DQ-alpha	Dendritic Cell
+HLA-DRB3	Multiple
+HLA-DRB3	Dendritic Cell
+HLA-DRB4	Dendritic Cell
+HLX1	Myeloid
+HMG20B	Dendritic Cell
+HMGB1	Lymphoid
+HMGB2	Multiple
+HMMR	T Cell
+HMOX1	Dendritic Cell
+HNRPC	Multiple
+HNRPD	Multiple
+HNRPD	Multiple
+HNRPR	Multiple
+HOZFP	Dendritic Cell
+HPSE	Myeloid
+HRMT1L1	Multiple
+HS3ST3B1 	Monocyte
+HSGP25L2G	Multiple
+HSPA6	Myeloid
+HSPA6	Neutrophil
+HSPC043	Multiple
+HSPC055	Multiple
+HSPC150	T Cell
+HSPC196	Myeloid
+HSPCA	Multiple
+HSU15552	Multiple
+HTLF 	Multiple
+HTPAP	B Cell
+IAN4L1	Lymphoid
+ICAM2	Lymphoid
+ICAM2	Lymphoid
+ICAM3	Multiple
+ICOS	T Cell
+ICOSL	Myeloid
+ICSBP1	Multiple
+IDN3	Multiple
+IDS	Multiple
+IER3	Monocyte
+IER5	Multiple
+IFI16	Multiple
+IFI16	Lymphoid
+IFI35	Multiple
+IFI44	Multiple
+IFIT1	Dendritic Cell
+IFIT2	Myeloid
+IFIT2	Multiple
+IFIT4	Multiple
+IFIT4	Multiple
+IFITM1 	Myeloid
+IFNAR2	Multiple
+IFNG	Lymphoid
+IFNGR1 	Myeloid
+IFRD1 	Multiple
+IGF2R	Multiple
+IGF2R	Multiple
+IGSF6	Myeloid
+IGSF6	Myeloid
+IgV(K)	Multiple
+IL10RA	Multiple
+IL12B	Myeloid
+IL13RA1	Myeloid
+IL13RA1	Myeloid
+IL15	Myeloid
+IL16	Multiple
+IL17F	T Cell
+IL17R	Myeloid
+IL17R	Myeloid
+IL17R	Multiple
+IL17R	Myeloid
+IL18RAP	Multiple
+IL19	Monocyte
+IL1A	Monocyte
+IL1B	Monocyte
+IL1B	Monocyte
+IL1F9	Monocyte
+IL1RN	Monocyte
+IL1RN	Monocyte
+IL1RN	Monocyte
+IL21R	Multiple
+IL22	T Cell
+IL23A	Multiple
+IL24	Monocyte
+IL2RA	Multiple
+IL2RA	Multiple
+IL2RB	Lymphoid
+IL2RG	Multiple
+IL3RA	Monocyte
+IL4I1	Multiple
+IL4R	Multiple
+IL6	Monocyte
+IL6R	Myeloid
+IL6R	Myeloid
+IL7R	Multiple
+IL8	Multiple
+IL8	Myeloid
+IL8RA	Neutrophil
+IL8RB	Neutrophil
+IL9	T Cell
+ILF2	Multiple
+IMAA 	Multiple
+IMAP1	Multiple
+IMAP1 	Multiple
+INCENP 	Multiple
+INDO	Myeloid
+INHBA	Myeloid
+INHBA	Myeloid
+INPP4B 	T Cell
+INPP5B 	Monocyte
+INPP5D	Multiple
+IPLA2(GAMMA)	Monocyte
+IQGAP1	Multiple
+IQGAP1	Multiple
+IRA1	Multiple
+IRA1	Multiple
+IRAK2	Monocyte
+IRF1 	Multiple
+IRF2	Multiple
+IRF4	Multiple
+IRF5	Multiple
+IRF5	Myeloid
+IRF7	Multiple
+IRTA2	B Cell
+IRTA2	B Cell
+IRTA2	B Cell
+ISG20 	Multiple
+ISG20 	Multiple
+ITGA4	Multiple
+ITGA4	Multiple
+ITGA4	Multiple
+ITGA4	Multiple
+ITGAL	Multiple
+ITGAM	Multiple
+ITGAX	Myeloid
+ITGB2	Multiple
+ITGB7	Lymphoid
+ITGB8 	Myeloid
+ITK	Lymphoid
+ITM1	Lymphoid
+ITPKB 	Lymphoid
+IVNS1ABP	NK Cell
+IVNS1ABP	NK Cell
+JAK1 	Multiple
+JAK1 	Multiple
+JAK3	Multiple
+JAM3	Multiple
+JMJD2B	Multiple
+JUN	Multiple
+KA6	Lymphoid
+KAB	Myeloid
+KBTBD2	Multiple
+KCNJ2	Myeloid
+KCNJ2	Myeloid
+KCNK6	Multiple
+KCTD12	Myeloid
+KIAA0101 	Lymphoid
+KIAA0102	B Cell
+KIAA0125	B Cell
+KIAA0152	Multiple
+KIAA0179 	Multiple
+KIAA0212	Multiple
+KIAA0212	Multiple
+KIAA0220 	Multiple
+KIAA0346	Myeloid
+KIAA0379	Lymphoid
+KIAA0379	Multiple
+KIAA0492	Multiple
+KIAA0615	Multiple
+KIAA0650	Multiple
+KIAA0650	Multiple
+KIAA0650	Multiple
+KIAA0746	B Cell
+KIAA0746	B Cell
+KIAA0746	B Cell
+KIAA0779	Neutrophil
+KIAA0841	Multiple
+KIAA0912 	Multiple
+KIAA0930	Myeloid
+KIAA1126	Neutrophil
+KIAA1160	Multiple
+KIAA1234 	Multiple
+KIAA1268 	Multiple
+KIAA1333	Multiple
+KIAA1361	Multiple
+KIAA1363	Myeloid
+KIAA1384	B Cell
+KIAA1404	Dendritic Cell
+KIAA1484	Multiple
+KIAA1509	Lymphoid
+KIAA1533	Myeloid
+KIAA1546	Myeloid
+KIAA1554	Multiple
+KIAA1554	Multiple
+KIAA1554	Multiple
+KIAA1554	Multiple
+KIAA1554	Multiple
+KIAA1726	Multiple
+KIAA1902 	Myeloid
+KIAA1949	Multiple
+KIAA1971	Multiple
+KIAA2010	Lymphoid
+KIAA2018	Multiple
+KIAA2027	Multiple
+KIF14 	T Cell
+KIF2	Multiple
+KIF2C	Lymphoid
+KIR2DL1 	Lymphoid
+KIR2DL1 	Lymphoid
+KIR2DL1 	NK Cell
+KIR2DL1 	NK Cell
+KIR2DL2	NK Cell
+KIR2DL4 	NK Cell
+KIR2DL4 	NK Cell
+KIR2DS2 	NK Cell
+KIR2DS2 	NK Cell
+KIR2DS5	NK Cell
+KIR2DS5	NK Cell
+KIR3DL1	NK Cell
+KIR3DL2	NK Cell
+KIR3DL2	NK Cell
+KIR3DS1	NK Cell
+KIS	Multiple
+KIS	Multiple
+KLF12	Lymphoid
+KLHL6	Multiple
+KLIP1	Lymphoid
+KLRB1	Lymphoid
+KLRC3	Lymphoid
+KLRC4	Lymphoid
+KLRD1	Lymphoid
+KLRD1	Lymphoid
+KLRF1	NK Cell
+KLRG1	Lymphoid
+KPNA2	Multiple
+KPNA2	Multiple
+KPNB1	Multiple
+KPNB1	Multiple
+KPNB1	Multiple
+KRAS2	Multiple
+KRT23	Neutrophil
+KSP37	Lymphoid
+KYNU	Myeloid
+KYNU	Myeloid
+KYNU	Myeloid
+LACTB	Myeloid
+LAG3	T Cell
+LAK	Myeloid
+LAMP1	Myeloid
+LANPL	Multiple
+LAP2	Multiple
+LAP2	Lymphoid
+LAP2	Lymphoid
+LAP2	Lymphoid
+LAPTM5	Multiple
+LAT	Multiple
+LAT	Multiple
+LCK	Lymphoid
+LCK	Lymphoid
+LCP1	Multiple
+LCP2	Multiple
+LCP2	Multiple
+LCP2 	Multiple
+LCP2 	Multiple
+Lectin	Dendritic Cell
+LEF1	T Cell
+LENG4	Neutrophil
+LENG5	Neutrophil
+LEPROTL1	T Cell
+LEREPO4	Multiple
+LFIO9330 	Lymphoid
+LFNG	Multiple
+LIF	Lymphoid
+LILRA1	Myeloid
+LILRA1	Myeloid
+LILRA1	Myeloid
+LILRB1	Multiple
+LILRB1	Myeloid
+LILRB1	Myeloid
+LILRB2	Myeloid
+LILRB2	Myeloid
+LILRB3 	Myeloid
+LILRB3 	Myeloid
+LILRB3 	Myeloid
+LILRB3 	Myeloid
+LILRB3 	Myeloid
+LIMS1	Myeloid
+LIMS1	Multiple
+LIPK	Multiple
+LITAF	Myeloid
+LLT1	Multiple
+LLT1	Multiple
+LNK	Multiple
+LOC114139	Multiple
+LOC119392	Multiple
+LOC129531	Multiple
+LOC129607	Myeloid
+LOC151194	Multiple
+LOC151636	Multiple
+LOC151963	Multiple
+LOC153222	Multiple
+LOC153222	Myeloid
+LOC162073 	Myeloid
+LOC162073 	Multiple
+LOC196264 	Multiple
+LOC196463 	Myeloid
+LOC197135 	Lymphoid
+LOC200030 	Multiple
+LOC201725 	Multiple
+LOC202786	Multiple
+LOC202908	Myeloid
+LOC220213	B Cell
+LOC23117 	Multiple
+LOC253782	Dendritic Cell
+LOC283153	Multiple
+LOC283153	Multiple
+LOC283431	Myeloid
+LOC283431 	Myeloid
+LOC283989 	Lymphoid
+LOC284018	Dendritic Cell
+LOC284336 	Multiple
+LOC284336 	Multiple
+LOC284336 	Multiple
+LOC285628	Multiple
+LOC286088 	Myeloid
+LOC286163	Multiple
+LOC339493	Myeloid
+LOC339541 	Multiple
+LOC339541 	Multiple
+LOC339745	Myeloid
+LOC341720 	Multiple
+LOC342616	Lymphoid
+LOC348235	Lymphoid
+LOC51061	B Cell
+LOC51061 	B Cell
+LOC51122	Multiple
+LOC51320	Lymphoid
+LOC51762	Multiple
+LOC51762	Multiple
+LOC51762	Multiple
+LOC54103 	Multiple
+LOC55580	Myeloid
+LOC56854	Lymphoid
+LOC56902	Multiple
+LOC56902	Lymphoid
+LOC64744	Multiple
+LOC64744 	Multiple
+LOC91526	Multiple
+LOC91526	Multiple
+LOC91947	Myeloid
+LOC91966	Multiple
+LOC91966	Multiple
+LOC91966	Multiple
+LOC92162 	Myeloid
+LOC92799	Multiple
+LOC93082	Dendritic Cell
+LPXN	Multiple
+LRMP	Multiple
+LRP10 	Myeloid
+LRP10 	Myeloid
+LRRFIP1	Multiple
+LRRFIP1	Multiple
+LRRFIP1	Multiple
+LRRFIP1	Monocyte
+LRRN3	T Cell
+LRRN4	Multiple
+LSP1	Multiple
+LST1	Myeloid
+LST1	Myeloid
+LST1	Myeloid
+LST1	Myeloid
+LST1	Myeloid
+LST1	Myeloid
+LTA	Lymphoid
+LTB	Multiple
+LTB4R 	Myeloid
+LUC7L2 	Multiple
+LY75	Multiple
+LY9 	Lymphoid
+LY96	Multiple
+LYAR	Lymphoid
+LYN	Myeloid
+LYN	Myeloid
+LYN	Myeloid
+LYRIC	Multiple
+LYRIC	Multiple
+LYRIC	Multiple
+LZK1	Multiple
+LZTFL1	B Cell
+M6PR	Multiple
+MAD	Neutrophil
+MAD2L1	Lymphoid
+MAF	Multiple
+MAFB	Myeloid
+MAFB	Myeloid
+MAFF	Myeloid
+MAK3P	Multiple
+MAK3P	Multiple
+MAK3P 	Multiple
+MAN1A1	B Cell
+MAN2A1	Multiple
+MANEA	B Cell
+MAP3K4	Myeloid
+MAP3K4	Myeloid
+MAP3K8	Multiple
+MAP4K1	Lymphoid
+MAPKAP1	Multiple
+MARCKS	Myeloid
+MARCKS	Myeloid
+MARCKS	Multiple
+MBD2	Multiple
+MBD4	Multiple
+MBD6	Myeloid
+MBNL1	Multiple
+MBNL1	Multiple
+MBP	Multiple
+MBP	Multiple
+MCFP 	Multiple
+MCL1	Multiple
+MCL1	Multiple
+MCL1 	Myeloid
+MCM10	Lymphoid
+MCM2	Lymphoid
+MCM5	Multiple
+MCM6	Lymphoid
+MCM7	Lymphoid
+MCM7	Lymphoid
+MCOLN1 	Lymphoid
+MCOLN2	Multiple
+MDA5	Dendritic Cell
+MDS010	Dendritic Cell
+MDS010	Dendritic Cell
+MEF2A 	Multiple
+MEFV	Multiple
+MELK	T Cell
+MFNG	Multiple
+MGAT2	Multiple
+MGAT2	Lymphoid
+MGC10120	Multiple
+MGC10500 	Neutrophil
+MGC10500 	Multiple
+MGC11115	Multiple
+MGC14126 	Neutrophil
+MGC15523	Multiple
+MGC15606	B Cell
+MGC15619	Multiple
+MGC15763	T Cell
+MGC16044	Lymphoid
+MGC16353	Neutrophil
+MGC19764	Multiple
+MGC19764	Multiple
+MGC19764	Multiple
+MGC20700	Myeloid
+MGC20700	Dendritic Cell
+MGC21854	Multiple
+MGC21854 	Multiple
+MGC23244	Lymphoid
+MGC23909	Multiple
+MGC24001 	Lymphoid
+MGC24133	Myeloid
+MGC26226	Monocyte
+MGC2647	Multiple
+MGC26717	Multiple
+MGC26717	Multiple
+MGC27044	Multiple
+MGC2865	Multiple
+MGC3036	T Cell
+MGC3067	Lymphoid
+MGC3067	Multiple
+MGC33602	Myeloid
+MGC33864	Multiple
+MGC39350	Multiple
+MGC39372	Multiple
+MGC39820 	Multiple
+MGC39830	Multiple
+MGC39830	Multiple
+MGC4342	Multiple
+MGC4368	Multiple
+MGC45731	Myeloid
+MGC45871	Multiple
+MGC4677	Multiple
+MGC4796	Myeloid
+MGC5244	Lymphoid
+MGC5306	T Cell
+MGC5618	Myeloid
+MGC5618	Myeloid
+MGC57827 	Multiple
+MGC61571	Lymphoid
+MGC62018 	Multiple
+MGC7036	Myeloid
+MGC72104 	Multiple
+MGC8721 	Multiple
+MGC9726	Myeloid
+MGEA5 	Multiple
+MKI67	T Cell
+MKI67IP	Lymphoid
+MKI67IP	Lymphoid
+MLL3	Multiple
+MMP1	Monocyte
+MMP12	Dendritic Cell
+MMP14	Monocyte
+MMP14	Monocyte
+MMP19	Monocyte
+MMP9	Monocyte
+MMPL1	Myeloid
+MNDA	Myeloid
+MO25	Multiple
+MOB4A	Dendritic Cell
+MOBKL2A 	Multiple
+MPEG1	Monocyte
+MPEG1	Monocyte
+MPPE1	Neutrophil
+MPPE1	Neutrophil
+MPPE1	Neutrophil
+MRPS10	Multiple
+MS4A6A	Myeloid
+MS4A6A	Myeloid
+MS4A6A	Monocyte
+MS4A7	Myeloid
+MSC	Myeloid
+MSCP	Myeloid
+MSCP	Myeloid
+MSCP	Myeloid
+MSCP	Myeloid
+MSCP	Myeloid
+MSCP	Neutrophil
+MSCP	Myeloid
+MSCP 	Myeloid
+MSN 	Multiple
+MST4	Multiple
+MTF1	Monocyte
+MTHFD2	Multiple
+MTND6	B Cell
+MX1	Dendritic Cell
+MX2	Multiple
+MYBL1	Lymphoid
+MYH9 	Multiple
+MYLIP	Multiple
+MYLIP	Multiple
+MYLIP	Multiple
+MYLIP	Multiple
+MYO1F	Multiple
+MYO1G	Multiple
+MYO1G	Multiple
+MYO1G 	Multiple
+NAGA	Myeloid
+NAGA	Multiple
+NAGK	Myeloid
+NAGPA	Dendritic Cell
+NALP12	Myeloid
+NALP7	B Cell
+NAV1	Myeloid
+NAV1	Multiple
+NBS1	Multiple
+NBS1	Multiple
+NBS1	Multiple
+NCE2	Multiple
+NCE2	Myeloid
+NCE2	Multiple
+NCF1	Multiple
+NCF1	Multiple
+NCF2	Myeloid
+NCF4	Neutrophil
+NCF4	Neutrophil
+NCK1	Myeloid
+NCK1	Multiple
+NCOA3	Multiple
+NCOA3	Multiple
+NCOA3	Multiple
+NCOA3	Multiple
+NCOA3	Multiple
+NCR3	Lymphoid
+NCR3	Lymphoid
+NCR3	Lymphoid
+NDE1	Multiple
+NDE1	Multiple
+NDFIP2	T Cell
+NDFIP2	Lymphoid
+NDNL2	T Cell
+NEK6	Myeloid
+NETO2	Multiple
+NFAM1	Myeloid
+NFATC3 	Lymphoid
+NFATC3 	Multiple
+NFE2	Myeloid
+NFKB1	Multiple
+NGLY1	B Cell
+NIN	Multiple
+NINJ1	Myeloid
+NK4	Lymphoid
+NKG7	Lymphoid
+NKTR	Multiple
+NMI	Multiple
+NMT1	Multiple
+NOD27	Multiple
+NOD3	Lymphoid
+NOP5/NOP58	Lymphoid
+NOTCH4	Multiple
+NPC1	Monocyte
+NPL	Myeloid
+NR3C1	Multiple
+NR3C1	Multiple
+NR4A3	Dendritic Cell
+NR4A3	Dendritic Cell
+NRBF-2	Neutrophil
+NRBF-2	Myeloid
+NRIP3	Monocyte
+NRP1	Myeloid
+NRP2	Myeloid
+NRP2	Myeloid
+NS1-BP	NK Cell
+NSMAF	Myeloid
+NSMAF	Multiple
+NT5C3	Dendritic Cell
+NUMB	Myeloid
+NUP153	Multiple
+NUP214	Myeloid
+NUP62	Dendritic Cell
+NUPL1	Multiple
+NUSAP1	Lymphoid
+NUSAP1	Lymphoid
+NYREN18	Dendritic Cell
+NYREN18	Dendritic Cell
+OAS1	Dendritic Cell
+OAS2	Multiple
+OAS3	Multiple
+OATPRP4	Dendritic Cell
+OAZ2	Myeloid
+OC92906 	Multiple
+OGFRL1 	Myeloid
+OK/KNS-CL.4 	Monocyte
+OSBPL10	B Cell
+OSBPL11	Myeloid
+OSBPL8	Multiple
+OSM	Multiple
+OSTM1 	Multiple
+P101-PI3K	Multiple
+P2RX5	Lymphoid
+P2RX7	Myeloid
+P2RY8	Multiple
+P2Y10 	Multiple
+PA2G4	Lymphoid
+PABPC1 	Multiple
+PACAP	B Cell
+PACAP	B Cell
+PAICS	T Cell
+PAICS	Lymphoid
+PAI-RBP1	Lymphoid
+PAI-RBP1	Lymphoid
+PAK2	Multiple
+PAK2	Multiple
+PAPOLA	Lymphoid
+PARVG	Multiple
+PARVG	Multiple
+PASK	Lymphoid
+PAX5 	B Cell
+PBEF	Myeloid
+PBEF1 	Myeloid
+PC4	Lymphoid
+PC4	B Cell
+PCNA	Lymphoid
+PDCD1LG1	Myeloid
+PDCD1LG1	Myeloid
+PDE4B	Multiple
+PDK1	Lymphoid
+PDL2	Dendritic Cell
+PDXK	Multiple
+PDXK	Multiple
+PELI1	Multiple
+PELI1	Multiple
+PELI1	Multiple
+PEP1	Myeloid
+PFC	Myeloid
+PFKFB3	Monocyte
+PGD	Myeloid
+PGK1	Multiple
+PHC2	Neutrophil
+PHCA	Myeloid
+PHCA	Myeloid
+PHF19 	Lymphoid
+PHF19 	Lymphoid
+PHF19 	Lymphoid
+PI3	Multiple
+PI3	Multiple
+PI4KII	Myeloid
+PIAS1 	Multiple
+PICALM	Myeloid
+PICALM	Myeloid
+PIK3CD	Multiple
+PIK3CG 	Multiple
+PILRA	Myeloid
+PILRA	Myeloid
+PIM1	Multiple
+PIM2	Lymphoid
+PIP5K2A 	Multiple
+PISD	Myeloid
+PITPN	Myeloid
+PLA2G7	Myeloid
+PLA2G7 	Myeloid
+PLAUR	Monocyte
+PLAUR	Monocyte
+PLAUR	Monocyte
+PLCG2 	Multiple
+PLD1 	Monocyte
+PLD3 	Monocyte
+PLDN	Multiple
+PLDN	Dendritic Cell
+PLEK	Multiple
+PLEK	Multiple
+PLEKHB2	Myeloid
+PLXDC2 	Myeloid
+PLXDC2 	Myeloid
+PLXDC2 	Myeloid
+PLXNC1	Multiple
+PLXNC1	Multiple
+PMAIP1	Multiple
+PMAIP1	Multiple
+PMS1 	Multiple
+PNOC	B Cell
+POLE3	Multiple
+POLR1B	Lymphoid
+POU2AF1	B Cell
+PP2135	Myeloid
+PP2135	Myeloid
+PPBP	Monocyte
+PPHLN1	Multiple
+PPIF	Monocyte
+PPIF	Monocyte
+PPM1F	Myeloid
+PPP1R2	Multiple
+PPP1R2	Lymphoid
+PPT1	Myeloid
+PRAM-1	Monocyte
+PRC1 	T Cell
+PRDM1	Multiple
+PRDM2	Lymphoid
+PREX1	Multiple
+PREX1	Multiple
+PRF1	Lymphoid
+PRG2	Multiple
+PRG2	Multiple
+PRICKLE1 	Multiple
+PRKCH	Lymphoid
+PRKCH	Lymphoid
+PRKCQ 	Lymphoid
+PRKX	Lymphoid
+PRO1073	Multiple
+PRO1073	Multiple
+PRO1073	Multiple
+PRO1073	Multiple
+PRO1073	Multiple
+PRO1073 	Multiple
+PRO1073 	Multiple
+PRO1073 	Multiple
+PRO2000	T Cell
+PRO2000	Lymphoid
+PROK2	Neutrophil
+PRSS1 	Lymphoid
+PRSS1 	Lymphoid
+PRSS1 	Lymphoid
+PSCD1	Multiple
+PSCD4	Multiple
+PSCDBP	Multiple
+PSMB2	Multiple
+PSMD11	Multiple
+PTAFR	Myeloid
+PTEN	Myeloid
+PTEN	Myeloid
+PTGDR	NK Cell
+PTGDR	Lymphoid
+PTGER2	Multiple
+PTGS2	Myeloid
+PTP	T Cell
+PTP4A2	Multiple
+PTPJ	Multiple
+PTPN1	Multiple
+PTPN22	Multiple
+PTPN4	Lymphoid
+PTPN6	Multiple
+PTPN7	Lymphoid
+PTPRC	Multiple
+PTPRC	Multiple
+PTPRC	Multiple
+PTPRCAP	Lymphoid
+PTPRE 	Myeloid
+PTPRO	Myeloid
+PTTG1	Lymphoid
+PTX3	Monocyte
+PVRL2	Dendritic Cell
+PVRL4 	Multiple
+PXN	Multiple
+QPCT	Multiple
+QRSL1	B Cell
+RAB10	Myeloid
+RAB24	Multiple
+RAB30	Multiple
+RAB30	Multiple
+RAB30	Dendritic Cell
+RAB37	Multiple
+RAB9A	Dendritic Cell
+RAC2	Multiple
+RAC2	Multiple
+RACGAP1	Lymphoid
+RAFTLIN 	Multiple
+RALA	Multiple
+RALB	Neutrophil
+RALGPS2 	B Cell
+RAMP	Lymphoid
+RAMP	Lymphoid
+RAP1A 	Multiple
+RAP2B	Multiple
+RAP2C	Multiple
+RAPGEF1 	Multiple
+RAPGEF1 	Multiple
+RAPGEF6 	Multiple
+RAPGEF6 	Multiple
+RARA	Myeloid
+RASA2	Multiple
+RASA2	Lymphoid
+RASA3 	Multiple
+RASAL2	Myeloid
+RASGRP1	Multiple
+RASGRP2	Multiple
+RASGRP2	Lymphoid
+RASGRP3	Multiple
+RASGRP4	Myeloid
+RASSF2	Myeloid
+RASSF3	Myeloid
+RASSF4	Myeloid
+RASSF4	Myeloid
+RASSF4	Dendritic Cell
+RASSF5	Multiple
+RBBP2	Multiple
+RBBP4 	Multiple
+RBL2	Multiple
+RBMS1	Multiple
+RCP	Multiple
+RDX	Myeloid
+REL	Multiple
+REL 	Multiple
+REL 	Myeloid
+RELB	Multiple
+RFC4	Lymphoid
+Rgr	Multiple
+RGS1	Multiple
+RGS1	Multiple
+RGS18	Myeloid
+RGS19	Multiple
+RhoGAP2	Dendritic Cell
+RHOH 	Multiple
+RIN3	Multiple
+RIOK1	Lymphoid
+RIPK2	Myeloid
+RIT1	Myeloid
+RIT1 	Myeloid
+RIT1 	Myeloid
+RLG	Myeloid
+RLN3	Multiple
+RNASE2	Myeloid
+RNASE6	Multiple
+RNASET2 	Multiple
+RNF125 	Lymphoid
+RNF13	Myeloid
+RNF13	Myeloid
+RNF141 	Neutrophil
+RNF149	Myeloid
+RNF149 	Multiple
+RNF24	Myeloid
+RNF36	Multiple
+RNPC2	Multiple
+RNU2	Monocyte
+ROD1 	Multiple
+ROD1 	Multiple
+RORA 	Lymphoid
+RP42	Multiple
+RP42	Multiple
+RPA3	Lymphoid
+RPEL1	Monocyte
+RPIA	Lymphoid
+RPN1	B Cell
+RPS27L 	Myeloid
+RRAGC	Myeloid
+RRM1	T Cell
+RRM2	Lymphoid
+RRM2	Lymphoid
+RRP40	Multiple
+RRP40	Multiple
+RUNX2	Multiple
+RUNX3	Multiple
+RUNX3	Multiple
+RYBP 	Multiple
+S100A12	Myeloid
+S100A9	Myeloid
+SAMD3	Lymphoid
+SAMHD1	Multiple
+SAMHD1	Multiple
+SAMSN1	Multiple
+SART2	Myeloid
+SART3	Multiple
+SCA1 	Myeloid
+SCAP2	Myeloid
+SCAP2	Multiple
+SCD4	Multiple
+SCFD1 	B Cell
+SCO2	Myeloid
+SDF2L1	Lymphoid
+SDP35	T Cell
+SEC14L1	Neutrophil
+SEC14L1	Multiple
+SEC24A	B Cell
+SELL	Multiple
+SELPLG	Multiple
+SELPLG	Multiple
+SELPLG 	Multiple
+SEMA4D 	Multiple
+SEPT1 	Lymphoid
+SEPT6 	Lymphoid
+SEPT6 	Multiple
+SEPX1	Neutrophil
+SERPINB2	Monocyte
+SERPINB7	Monocyte
+SERPINB9	Monocyte
+SERPINB9	Multiple
+SET	Multiple
+SF1	Multiple
+SFMBT2 	Multiple
+SFRS1	Multiple
+SFRS2	Multiple
+SFRS2	Lymphoid
+SFRS2IP	Multiple
+SFRS2IP	Multiple
+SGKL	Myeloid
+SGPP2	Myeloid
+SGPP2 	Monocyte
+SGPP2 	Multiple
+SH2D2A	Lymphoid
+SH3BP5	Multiple
+SH3GL3 	Multiple
+SIAH2	Multiple
+SIAT4A 	Myeloid
+SIAT7D	Multiple
+SIAT8D	Multiple
+SIAT8D	Multiple
+SIAT8D	Multiple
+SIAT8D	Multiple
+SLA	Multiple
+SLAMF1	Multiple
+SLAMF7	Multiple
+SLAMF7	Multiple
+SLAMF7	Multiple
+SLAMF8	Myeloid
+SLAMF8	Myeloid
+SLC11A1	Myeloid
+SLC11A2	Myeloid
+SLC15A3	Myeloid
+SLC15A4	Multiple
+SLC15A4	Multiple
+SLC16A3	Myeloid
+SLC16A3	Myeloid
+SLC16A6	Multiple
+SLC25A16	Multiple
+SLC26A11	Multiple
+SLC27A3	Dendritic Cell
+SLC28A3 	Monocyte
+SLC2A14	Multiple
+SLC2A3	Multiple
+SLC2A3	Multiple
+SLC2A6	Myeloid
+SLC31A1	Monocyte
+SLC31A2	Myeloid
+SLC36A4	Myeloid
+SLC38A6	Myeloid
+SLC3A2	Monocyte
+SLC6A6 	Myeloid
+SLC6A6 	Myeloid
+SLC7A1 	Multiple
+SLC7A11	Myeloid
+SLC7A11	Myeloid
+SLC7A11 	Myeloid
+SLC7A5	Lymphoid
+SLCO3A1 	Multiple
+SLIC1 	Multiple
+SMARCA2 	Multiple
+SMC1L1	Multiple
+SMC2L1	Lymphoid
+SMC4L1	Lymphoid
+SMC4L1	Lymphoid
+SMCR8	Multiple
+SMCY	B Cell
+SMG1 	Multiple
+SMNDC1	Multiple
+SN	Dendritic Cell
+SN	Dendritic Cell
+SNAP23	Multiple
+SNFT	Multiple
+SNRPA1	Lymphoid
+SNRPA1	Multiple
+SNX11	Myeloid
+SNX11	Myeloid
+SNX2	Multiple
+SNX9	Monocyte
+SNX9	Monocyte
+SOAT1	Myeloid
+SOCS1	Multiple
+SOD2	Myeloid
+SOS1	Lymphoid
+SOS1	Lymphoid
+SP100	Lymphoid
+SP110	Multiple
+SP110	Multiple
+SP110	Multiple
+SP110	Multiple
+SP4 	Lymphoid
+SPATS2	B Cell
+SPATS2	B Cell
+SPEC1	Multiple
+SPEC2	Multiple
+SPF45	Multiple
+SPI1	Myeloid
+SPIB	Multiple
+SPIB	B Cell
+SPRED1	Myeloid
+SPRED2	Dendritic Cell
+SQSTM1 	Multiple
+SRC 	Monocyte
+SRP72 	Multiple
+SRRM2	Multiple
+SSH1	Multiple
+SSH2	Multiple
+SSH2 	Multiple
+SSH3BP1	Multiple
+SSH3BP1	Multiple
+SSR1	Lymphoid
+SSR1	B Cell
+SSR1	Lymphoid
+SSR3	Multiple
+STAB1	Myeloid
+STAG2	Multiple
+STAT1	Multiple
+STAT1	Multiple
+STAT4	Lymphoid
+STAT5A	Multiple
+STCH	B Cell
+STIP1	Lymphoid
+STIP1	Multiple
+STK10	Multiple
+STK10	Multiple
+STK10	Multiple
+STK17A	Multiple
+STK17B	Multiple
+STK38	Multiple
+STK4	Multiple
+STK4	Multiple
+STK4	Multiple
+STK6 	T Cell
+STX11	Multiple
+STX3A 	Neutrophil
+STXBP2	Myeloid
+SUI1	Multiple
+SUPT16H	Multiple
+SWAP70	Multiple
+SWAP70	Multiple
+SYK	Multiple
+SYK	Multiple
+SYNCRIP	Multiple
+SYNCRIP	Multiple
+SYNCRIP	Multiple
+SYNE2	Lymphoid
+SYT11 	Myeloid
+SYT11 	Myeloid
+SYTL3 	Multiple
+T2BP	Lymphoid
+T3JAM	Multiple
+T3JAM	Multiple
+TACE	Myeloid
+TAF4B 	Lymphoid
+TA-KRP	Multiple
+TALDO1	Myeloid
+TA-NFKBH 	Myeloid
+TANK	Multiple
+TANK	Multiple
+TAP1	Multiple
+TAP2	Multiple
+TARDBP	Multiple
+TBC1D13	Dendritic Cell
+TBC1D13	Dendritic Cell
+TBL1X	Multiple
+TBX21	Lymphoid
+TBXAS1 	Myeloid
+TCF19	Lymphoid
+TCF3	Lymphoid
+TCF3	Lymphoid
+TCF3	B Cell
+TCF7	T Cell
+TCIRG1	Monocyte
+TCL1A	B Cell
+TCL1A	B Cell
+TCRA 	T Cell
+TCRA 	T Cell
+TCRA 	T Cell
+TCRA 	T Cell
+TCRA 	T Cell
+TDP1	Multiple
+TFEC	Myeloid
+TFEC	Multiple
+TFPI2	Monocyte
+TFRC	Multiple
+TGFA	Multiple
+TGFB1	Multiple
+TGFBI	Myeloid
+TGFBR1 	NK Cell
+TGOLN2	Multiple
+THOC4	Multiple
+THOC4	Multiple
+TIEG 	Monocyte
+TIMP2	Myeloid
+TLE3	Multiple
+TLOC1	B Cell
+TLR1	Myeloid
+TLR1	Myeloid
+TLR10	Multiple
+TLR10	B Cell
+TLR2	Myeloid
+TLR4 	Myeloid
+TLR4 	Myeloid
+TLR8	Myeloid
+TM4-B	Neutrophil
+TM6SF1	Multiple
+TMEFF1 	Monocyte
+TMG4 	Myeloid
+TncRNA	Monocyte
+TNF	Multiple
+TNFAIP2	Myeloid
+TNFAIP3	Multiple
+TNFAIP3	Multiple
+TNFAIP6	Myeloid
+TNFAIP6	Multiple
+TNF-gamma; VEG1	Monocyte
+TNFRSF19L	Myeloid
+TNFRSF1B	Multiple
+TNFRSF4	Multiple
+TNFRSF5	Multiple
+TNFRSF5	Myeloid
+TNFRSF5	Multiple
+TNFRSF6	Multiple
+TNFRSF7	Lymphoid
+TNFRSF9	Multiple
+TNFSF13B	Myeloid
+TNFSF13B	Myeloid
+TNFSF6	Lymphoid
+TNFSF6	Lymphoid
+TNFSF8	Multiple
+TNFSF8	Multiple
+TNIP1	Myeloid
+TNIP3	Multiple
+TOP2A	T Cell
+TOP2A	Lymphoid
+TOR3A	Multiple
+TOSO	Lymphoid
+TOSO	Lymphoid
+TPX2	T Cell
+TRA@	Lymphoid
+TRA@	Lymphoid
+TRA@	Lymphoid
+TRA1	B Cell
+TRA1	B Cell
+TRA1	B Cell
+TRA2A 	Multiple
+TRADD	Multiple
+TRAF1	Myeloid
+TRAF1	Multiple
+TRAM1	B Cell
+TRAM1	B Cell
+TRAM2 	B Cell
+TRAP150	Multiple
+TRAP25	Multiple
+TREM1	Myeloid
+TREM2	Myeloid
+TRERF1	Multiple
+TRIB1 	Multiple
+TRIM	T Cell
+TRIM38	Multiple
+TRIM38	Multiple
+TRIP8	Myeloid
+TRIPIN	Lymphoid
+TRIPIN	Lymphoid
+TRPV2	Multiple
+TSBF1	T Cell
+TTYH2	Dendritic Cell
+TTYH2	Dendritic Cell
+TXNDC5 	B Cell
+TXNRD1	Myeloid
+TYMS	Lymphoid
+U2AF1L2	Myeloid
+U5-116KD	Multiple
+UBD	Dendritic Cell
+UBE2C	T Cell
+UBE2D1	Myeloid
+UBE2G1	B Cell
+UBE2G1	B Cell
+UBE2G1	B Cell
+UBE2J1	B Cell
+UBE2J1	B Cell
+UBE2J1	B Cell
+UBE2J1	B Cell
+UBE2J1	B Cell
+UBE2J1	Multiple
+UBE2S	T Cell
+UBN1	Multiple
+UBXD2	Multiple
+UCP2	Multiple
+Ufm1 	B Cell
+UGCG	Myeloid
+UHRF1	Lymphoid
+UNC84B	Lymphoid
+UNC93B1	Myeloid
+UPP1	Multiple
+URP2 	Multiple
+USP1	Multiple
+USP10	Multiple
+USP15	Myeloid
+USP15	Myeloid
+USP15 	Multiple
+USP16	Multiple
+USP18	Dendritic Cell
+USP3	Multiple
+VASP	Multiple
+VDP 	Multiple
+VIL2	B Cell
+VLIG-1 	Lymphoid
+VMP1	Neutrophil
+VNN2	Neutrophil
+VPREB3	B Cell
+WAS	Multiple
+WASPIP	Multiple
+WASPIP	Multiple
+WASPIP	Multiple
+WBSCR19	Multiple
+WBSCR22	Lymphoid
+WBSCR5	Multiple
+WDFY1	Myeloid
+WDR1	Multiple
+WDR4	Lymphoid
+WHSC1L1	Multiple
+WHSC1L1 	Multiple
+WIG1 	Multiple
+WNT10A	B Cell
+WNT5A	Myeloid
+WNT5A	Myeloid
+WSX1	Multiple
+WTAP	Myeloid
+WTAP	Multiple
+XAF1 	Multiple
+XCL1	Lymphoid
+XCL2	Lymphoid
+XPO5	Multiple
+XPO6	Neutrophil
+XPO6	Neutrophil
+XTP2	Multiple
+XTP2	Multiple
+YME1L1 	Multiple
+YPEL1	NK Cell
+YPEL1	NK Cell
+YWHAB	Multiple
+YY1	Multiple
+ZAP70	Lymphoid
+ZBED2	T Cell
+ZBP1	Lymphoid
+ZBTB1	Multiple
+ZC3HAV1	Lymphoid
+ZC3HAV1	Lymphoid
+ZCCHC2	Multiple
+ZCCHC6 	Multiple
+ZDHHC18 	Myeloid
+ZFHX1B 	Monocyte
+ZFHX1B 	Myeloid
+ZFP36L2	Multiple
+ZFYVE16	Monocyte
+ZFYVE16	Monocyte
+ZNF101 	Lymphoid
+ZNF137 	Lymphoid
+ZNF147	Myeloid
+ZNF207 	Multiple
+ZNF217	Multiple
+ZNF267 	Multiple
+ZNF367 	Lymphoid
+ZNF620 	Myeloid
+ZNF620 	Myeloid
+ZNFN1A1	Multiple
+ZNFN1A3 	Lymphoid
+ZNFN1A3 	Lymphoid
+ZNRF1	Multiple
+ZNRF1	T Cell
+ZNRF2 	Multiple
+ZP3 	Monocyte
+ZWINT	T Cell

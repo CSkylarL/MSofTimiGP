@@ -1,0 +1,523 @@
+Symbol	Population
+CHRM3-AS2	T cells
+THEMIS	T cells
+THEMIS	T cells
+CD6	T cells
+MAL	T cells
+CD5	T cells
+CD28	T cells
+CD3G	T cells
+ICOS	T cells
+FLT3LG	T cells
+TNFRSF25	T cells
+TNFRSF25	T cells
+TNFRSF25	T cells
+CD28	T cells
+CD3D	T cells
+CD6	T cells
+AV8S2 /// TRAV13-2 /// TRAV13-2	T cells
+TRAT1	T cells
+TNFRSF25	T cells
+SIRPG	T cells
+CD5	T cells
+PBX4	T cells
+CTLA4	T cells
+MGC40069	T cells
+CD8B /// LOC100996919	CD8 T cells
+CD8B /// LOC100996919	CD8 T cells
+CD8B /// LOC100996919	CD8 T cells
+CD8B /// LOC100996919	CD8 T cells
+KLRC4-KLRK1 /// KLRK1	Cytotoxic lymphocytes
+KLRC4-KLRK1 /// KLRK1	Cytotoxic lymphocytes
+CD8A	Cytotoxic lymphocytes
+KLRC4-KLRK1 /// KLRK1	Cytotoxic lymphocytes
+KLRC4-KLRK1 /// KLRK1	Cytotoxic lymphocytes
+KLRC1 /// KLRC2	Cytotoxic lymphocytes
+KLRC1 /// KLRC2	Cytotoxic lymphocytes
+KLRC3	Cytotoxic lymphocytes
+KLRD1	Cytotoxic lymphocytes
+KLRD1	Cytotoxic lymphocytes
+KLRD1	Cytotoxic lymphocytes
+KLRC4	Cytotoxic lymphocytes
+FGFBP2	Cytotoxic lymphocytes
+EOMES	Cytotoxic lymphocytes
+GNLY	Cytotoxic lymphocytes
+FCRL3	B lineage
+STAP1	B lineage
+SNX29P1 /// SNX29P2	B lineage
+SNX29P1 /// SNX29P2	B lineage
+SNX29P1 /// SNX29P2	B lineage
+CD79A	B lineage
+CLLU1 /// LOC100507616	B lineage
+CLLU1 /// LOC100507616	B lineage
+BANK1	B lineage
+LOC100129447	B lineage
+FCRL2	B lineage
+NA	B lineage
+NA	B lineage
+ABCB4	B lineage
+CD22	B lineage
+CD79A	B lineage
+CD79B	B lineage
+CR2	B lineage
+CD19	B lineage
+ABCB4	B lineage
+MS4A1	B lineage
+IGHV5-78	B lineage
+IGHM	B lineage
+IGHA1 /// IGHA2 /// IGHD /// IGHG1 /// IGHG3 /// IGHG4 /// IGHM /// IGHV4-31	B lineage
+IGH /// IGHA1 /// IGHA2 /// IGHD /// IGHG1 /// IGHG3 /// IGHG4 /// IGHM /// IGHV3-23 /// IGHV4-31	B lineage
+IGH /// IGHA1 /// IGHA2 /// IGHD /// IGHG1 /// IGHG3 /// IGHG4 /// IGHM /// IGHV4-31	B lineage
+IGHA1 /// IGHA2 /// IGHD /// IGHG1 /// IGHG3 /// IGHM /// IGHV4-31	B lineage
+IGK /// IGKC	B lineage
+IGK /// IGKC	B lineage
+IGKV1-17 /// IGKV1-17	B lineage
+IGH /// IGHA1 /// IGHD /// IGHG1 /// IGHG3 /// IGHM /// IGHV3-23 /// IGHV4-31	B lineage
+IGLJ3	B lineage
+IGH /// IGHA1 /// IGHA2 /// IGHD /// IGHG1 /// IGHG2 /// IGHG3 /// IGHM /// IGHV4-31	B lineage
+IGLJ3	B lineage
+IGK	B lineage
+IGHD	B lineage
+IGKC /// IGKV2-28 /// IGKV2-28 /// IGKV2D-28 /// IGKV2D-28	B lineage
+IGKC /// IGKV2-28 /// IGKV2-28 /// IGKV2D-28 /// IGKV2D-28	B lineage
+abParts /// IGKC /// IGKV4-1 /// IGKV4-1	B lineage
+IGHA1 /// IGHA2 /// IGHG1 /// IGHG3 /// IGHM /// IGHV3-23 /// IGHV4-31	B lineage
+IGHD	B lineage
+AL928768.3 /// Ig alpha 1-[alpha]2m /// IGH	B lineage
+IGK /// IGKC	B lineage
+IGLC1 /// IGLV3-25 /// IGLV3-25	B lineage
+LOC101929272	B lineage
+IGHD	B lineage
+IGLV4-60 /// IGLV4-60	B lineage
+IGKC	B lineage
+IGKV1-37 /// IGKV1-37 /// IGKV1D-37 /// IGKV1D-37	B lineage
+IGHM	B lineage
+IGHA1 /// IGHG1 /// IGHM /// IGHV3-23 /// IGHV4-31	B lineage
+IGKC	B lineage
+IGHG1 /// IGHM	B lineage
+IGHA1 /// IGHD /// IGHG1 /// IGHG3 /// IGHM /// IGHV4-31	B lineage
+IGLC1 /// IGLV3-10 /// IGLV3-10	B lineage
+IGK /// IGKC	B lineage
+IGLJ3 /// IGLV3-19 /// IGLV3-19	B lineage
+CKAP2 /// IGLC1 /// IGLJ2 /// IGLJ2 /// IGLJ3 /// IGLJ3 /// IGLJ3 /// IGLV1-44 /// IGLV2-14 /// IGLV@	B lineage
+IGLC1 /// IGLJ3 /// IGLV2-14 /// IGLV@	B lineage
+IGK /// IGKC	B lineage
+NA	B lineage
+IGLV1-44	B lineage
+IGLL5	B lineage
+IGLV1-44	B lineage
+IGH /// IGHA1 /// IGHA2 /// IGHG1 /// IGHG2 /// IGHG3 /// IGHM /// IGHV4-31 /// LOC102725526	B lineage
+IGKV1OR2-108 /// IGKV1OR2-108	B lineage
+MS4A1	B lineage
+CD22	B lineage
+AC128677.4 /// CH17-132F21.1 /// IGKV1OR-1 /// IGKV1OR-1 /// IGKV1OR10-1 /// IGKV1OR10-1 /// IGKV1OR2-2	B lineage
+BANK1	B lineage
+STAP1	B lineage
+VPREB3	B lineage
+CD22	B lineage
+FCRL2	B lineage
+PAX5	B lineage
+IGHD	B lineage
+BANK1	B lineage
+FCRL2	B lineage
+BMS1P20	B lineage
+FCRL5	B lineage
+FCRL5	B lineage
+CPNE5	B lineage
+RALGPS2	B lineage
+DTX1	B lineage
+RALGPS2	B lineage
+EBF1	B lineage
+KLHL14	B lineage
+IGHG1 /// IGHM /// LOC102725426 /// MIR8071-1 /// MIR8071-2	B lineage
+MS4A1	B lineage
+MS4A1	B lineage
+NA	B lineage
+EBF1	B lineage
+CKAP2	B lineage
+LINC00926	B lineage
+SNX22	B lineage
+LINC00926	B lineage
+IGHD	B lineage
+FCRL3	B lineage
+NA	B lineage
+NA	B lineage
+FCRL5	B lineage
+EBF1	B lineage
+IGLC1 /// IGLV9-49 /// IGLV9-49	B lineage
+NA	B lineage
+CKAP2 /// IGLC1 /// IGLJ2 /// IGLJ2 /// IGLJ3 /// IGLJ3 /// IGLJ3 /// IGLV3-1 /// IGLV3-1 /// IGLV@	B lineage
+CKAP2 /// DKFZp667J0810 /// IGLC1 /// IGLJ2 /// IGLJ2 /// IGLJ3 /// IGLJ3 /// IGLJ3 /// IGLV1-36 /// IGLV1-36 /// IGLV1-44 /// IGLV1-50 /// IGLV1-50 /// IGLV@	B lineage
+CKAP2 /// IGLC1 /// IGLV3-1 /// IGLV3-1 /// IGLV@	B lineage
+FCRLA	B lineage
+FCRLA	B lineage
+FCRLA	B lineage
+FCRL1	B lineage
+LOC100130458	B lineage
+LOC100507616	B lineage
+AC079767.4	B lineage
+NA	B lineage
+RP11-138I18.2	B lineage
+CTA-250D10.23	B lineage
+FCRL1	B lineage
+LOC100131043	B lineage
+NA	B lineage
+SH2D1B	NK cells
+SH2D1B	NK cells
+KIR3DL1 /// KIR3DL2	NK cells
+CD160	NK cells
+NCR1	NK cells
+KIR2DL3	NK cells
+KIR2DL4	NK cells
+KIR2DL4	NK cells
+KIR2DL1	NK cells
+KIR2DL4	NK cells
+KIR2DL4	NK cells
+KIR2DL4	NK cells
+KIR2DL4	NK cells
+KIR3DS1	NK cells
+KIR3DS1	NK cells
+KIR3DL1	NK cells
+PTGDR	NK cells
+NCR1	NK cells
+PTGDR	NK cells
+NA	NK cells
+CSF1R	Monocytic lineage
+KYNU	Monocytic lineage
+PLA2G7	Monocytic lineage
+ADAP2	Monocytic lineage
+RASSF4	Monocytic lineage
+ADAP2	Monocytic lineage
+RASSF4	Monocytic lineage
+FPR3	Monocytic lineage
+TFEC	Monocytic lineage
+RASSF4	Monocytic lineage
+CLEC10A	Myeloid dendritic cells
+CD1B	Myeloid dendritic cells
+CD1E	Myeloid dendritic cells
+CD1A	Myeloid dendritic cells
+CLIC2	Myeloid dendritic cells
+CD1E	Myeloid dendritic cells
+WFDC21P	Myeloid dendritic cells
+CSF3R	Neutrophils
+VNN3	Neutrophils
+VNN3	Neutrophils
+BEST1	Neutrophils
+LOC101928717 /// SLC19A1	Neutrophils
+LINC00528	Neutrophils
+NA	Neutrophils
+CTB-167B5.2	Neutrophils
+NA	Neutrophils
+NA	Neutrophils
+ALPL	Neutrophils
+NFE4	Neutrophils
+NA	Neutrophils
+LOC100289061	Neutrophils
+IRAK3	Neutrophils
+NHSL2	Neutrophils
+MIR7109 /// PISD	Neutrophils
+PI3	Neutrophils
+FCGR3B	Neutrophils
+TECPR2	Neutrophils
+TECPR2	Neutrophils
+ORM1	Neutrophils
+FPR1	Neutrophils
+REPS2	Neutrophils
+TGM3	Neutrophils
+CA4	Neutrophils
+CA4	Neutrophils
+TNFRSF10C	Neutrophils
+PLXNC1	Neutrophils
+TLE3	Neutrophils
+CYP4F2 /// CYP4F3	Neutrophils
+CYP4F3	Neutrophils
+HAL	Neutrophils
+CXCR2	Neutrophils
+CXCR1	Neutrophils
+BEST1	Neutrophils
+KCNJ15	Neutrophils
+LOC254896 /// TNFRSF10C	Neutrophils
+CEACAM3	Neutrophils
+FCAR	Neutrophils
+KCNJ15	Neutrophils
+MEGF9	Neutrophils
+ABHD5	Neutrophils
+DHX34	Neutrophils
+ALPL	Neutrophils
+ARHGAP26	Neutrophils
+NA	Neutrophils
+CEACAM3	Neutrophils
+HAL	Neutrophils
+SLC25A37	Neutrophils
+ABHD5	Neutrophils
+DOCK5	Neutrophils
+STEAP4	Neutrophils
+BTNL8	Neutrophils
+VNN3	Neutrophils
+SLC12A6	Neutrophils
+SLC25A37	Neutrophils
+SLC25A37	Neutrophils
+LRRC4	Neutrophils
+DGAT2	Neutrophils
+SLC25A37	Neutrophils
+ABTB1	Neutrophils
+NATD1	Neutrophils
+REPS2	Neutrophils
+LRG1	Neutrophils
+ABTB1	Neutrophils
+FAM212B /// LOC101928718	Neutrophils
+FAM212B /// LOC101928718	Neutrophils
+CMTM2	Neutrophils
+KCNJ15	Neutrophils
+SLC25A37	Neutrophils
+NA	Neutrophils
+PROK2	Neutrophils
+KIF13A	Neutrophils
+PHOSPHO1	Neutrophils
+NA	Neutrophils
+RP11-44F14.8	Neutrophils
+SLC26A8	Neutrophils
+NA	Neutrophils
+KCNJ15	Neutrophils
+PCBP1-AS1	Neutrophils
+NPL	Neutrophils
+CLEC7A	Neutrophils
+SKAP2	Neutrophils
+PLIN5	Neutrophils
+FAM212B /// LOC101928718	Neutrophils
+SLC25A37	Neutrophils
+REPS2	Neutrophils
+NA	Neutrophils
+PI3	Neutrophils
+KLHL4	Endothelial cells
+RHOB	Endothelial cells
+BCL6B	Endothelial cells
+RHOJ	Endothelial cells
+RHOJ	Endothelial cells
+HHIP	Endothelial cells
+FAM43A	Endothelial cells
+SH3D19	Endothelial cells
+LINC01013	Endothelial cells
+ENG	Endothelial cells
+VWF	Endothelial cells
+EPHB4	Endothelial cells
+KDR	Endothelial cells
+SORBS2	Endothelial cells
+SORBS2	Endothelial cells
+TIE1	Endothelial cells
+CLDN5	Endothelial cells
+CDH5	Endothelial cells
+ARHGEF15	Endothelial cells
+ANGPT2	Endothelial cells
+MMRN1	Endothelial cells
+RAMP2	Endothelial cells
+PTPRB	Endothelial cells
+HOXD1	Endothelial cells
+ELK3	Endothelial cells
+BMP6	Endothelial cells
+GPR4	Endothelial cells
+BMX	Endothelial cells
+LDB2	Endothelial cells
+TEK	Endothelial cells
+SEMA3F	Endothelial cells
+HYAL2	Endothelial cells
+PLXNA2	Endothelial cells
+TGFBR2	Endothelial cells
+SNCA	Endothelial cells
+ESM1	Endothelial cells
+C10orf10	Endothelial cells
+C10orf10	Endothelial cells
+PGF	Endothelial cells
+FLT4	Endothelial cells
+ACVRL1	Endothelial cells
+TGM2	Endothelial cells
+ANGPT2	Endothelial cells
+TXNRD2	Endothelial cells
+TGM2	Endothelial cells
+ERG	Endothelial cells
+MTUS1	Endothelial cells
+GPR116	Endothelial cells
+GPR116	Endothelial cells
+PLXNA2	Endothelial cells
+ERG	Endothelial cells
+FRY	Endothelial cells
+FRY	Endothelial cells
+TFPI	Endothelial cells
+ALPK3	Endothelial cells
+DOCK9	Endothelial cells
+PTPRB	Endothelial cells
+FZD4	Endothelial cells
+SDPR	Endothelial cells
+PALMD	Endothelial cells
+EGFL7	Endothelial cells
+EDN1	Endothelial cells
+MMRN2	Endothelial cells
+ELTD1	Endothelial cells
+EMCN	Endothelial cells
+SOX18	Endothelial cells
+NOX4	Endothelial cells
+SOX17	Endothelial cells
+RASIP1	Endothelial cells
+RGS3	Endothelial cells
+MYCT1	Endothelial cells
+FAM124B	Endothelial cells
+ROBO4	Endothelial cells
+DOCK6	Endothelial cells
+DOCK6	Endothelial cells
+ERG	Endothelial cells
+IPO11 /// IPO11-LRRC70	Endothelial cells
+EDN1	Endothelial cells
+MMRN2	Endothelial cells
+APLN	Endothelial cells
+EMCN	Endothelial cells
+CXorf36	Endothelial cells
+HHIP	Endothelial cells
+SOX7	Endothelial cells
+ESAM	Endothelial cells
+SORBS2	Endothelial cells
+SORBS2	Endothelial cells
+ROBO4	Endothelial cells
+CLEC14A	Endothelial cells
+ACVRL1	Endothelial cells
+FGD5	Endothelial cells
+FAM43A	Endothelial cells
+FAM69B	Endothelial cells
+ECSCR	Endothelial cells
+ECSCR	Endothelial cells
+EMCN	Endothelial cells
+SHANK3	Endothelial cells
+ECSCR	Endothelial cells
+ALPK3	Endothelial cells
+EFEMP1	Endothelial cells
+PEAR1	Endothelial cells
+FAM69B	Endothelial cells
+VEPH1	Endothelial cells
+SHE	Endothelial cells
+ADAMTS18	Endothelial cells
+PCAT19	Endothelial cells
+HHIP	Endothelial cells
+PTPRB	Endothelial cells
+SOX17	Endothelial cells
+MYCT1	Endothelial cells
+HECW2	Endothelial cells
+EXOC6	Endothelial cells
+VWF	Endothelial cells
+NA	Endothelial cells
+RHOJ	Endothelial cells
+RHOJ	Endothelial cells
+ANGPT2	Endothelial cells
+MMRN2	Endothelial cells
+ANGPT2	Endothelial cells
+HHIP	Endothelial cells
+NA	Endothelial cells
+TMEM255B	Endothelial cells
+TEAD2	Endothelial cells
+RHOJ	Endothelial cells
+RHOJ	Endothelial cells
+GNG11	Endothelial cells
+CXorf36	Endothelial cells
+ERG	Endothelial cells
+RHOJ	Endothelial cells
+KIAA1324L	Endothelial cells
+NA	Endothelial cells
+SHROOM4	Endothelial cells
+PLXNA3	Fibroblasts
+CEMIP	Fibroblasts
+FGF7 /// KGFLP1 /// KGFLP2	Fibroblasts
+FGF7 /// KGFLP1 /// KGFLP2	Fibroblasts
+FGF7 /// KGFLP1 /// KGFLP2	Fibroblasts
+FGF7 /// KGFLP1 /// KGFLP2	Fibroblasts
+PRR16	Fibroblasts
+C1S	Fibroblasts
+TAGLN	Fibroblasts
+MTSS1L	Fibroblasts
+LRRN4CL	Fibroblasts
+MYL9	Fibroblasts
+COL3A1	Fibroblasts
+DCN	Fibroblasts
+PDGFRB	Fibroblasts
+COL1A1	Fibroblasts
+FBLN1	Fibroblasts
+FBLN1	Fibroblasts
+FBLN5	Fibroblasts
+PDGFRA	Fibroblasts
+IGFBP5	Fibroblasts
+STC2	Fibroblasts
+CNN1	Fibroblasts
+LPAR1	Fibroblasts
+PPP1R3C	Fibroblasts
+LOX	Fibroblasts
+TNFRSF11B	Fibroblasts
+TNFRSF11B	Fibroblasts
+TAGLN	Fibroblasts
+C1S	Fibroblasts
+THY1	Fibroblasts
+COL6A2	Fibroblasts
+DCN	Fibroblasts
+EFEMP2	Fibroblasts
+MFGE8	Fibroblasts
+DCN	Fibroblasts
+DCN	Fibroblasts
+IGFBP5	Fibroblasts
+C1R	Fibroblasts
+COL6A1	Fibroblasts
+ELN	Fibroblasts
+COL6A1	Fibroblasts
+COL6A1	Fibroblasts
+COL6A1	Fibroblasts
+CEMIP	Fibroblasts
+ANGPTL2	Fibroblasts
+ANGPTL2	Fibroblasts
+CREB3L1	Fibroblasts
+SVEP1	Fibroblasts
+COL6A2	Fibroblasts
+MXRA8	Fibroblasts
+CREB3L1	Fibroblasts
+LOX	Fibroblasts
+PAMR1	Fibroblasts
+PARVA	Fibroblasts
+THY1	Fibroblasts
+ADAMTS2	Fibroblasts
+HSPB6	Fibroblasts
+LOC100287387	Fibroblasts
+COL1A1	Fibroblasts
+GREM1	Fibroblasts
+GREM1	Fibroblasts
+HSPB7	Fibroblasts
+CD248	Fibroblasts
+ANGPTL2	Fibroblasts
+COPZ2	Fibroblasts
+PRRX2	Fibroblasts
+PRR16	Fibroblasts
+VGLL3	Fibroblasts
+GREM2	Fibroblasts
+GLT8D2	Fibroblasts
+ITGA11	Fibroblasts
+CCDC80	Fibroblasts
+CCDC80	Fibroblasts
+VASN	Fibroblasts
+PCDH18	Fibroblasts
+PCDH18	Fibroblasts
+HSPB6	Fibroblasts
+ADAMTS2	Fibroblasts
+PODN	Fibroblasts
+FIBIN	Fibroblasts
+LINC01279	Fibroblasts
+TMEM119	Fibroblasts
+RGMB	Fibroblasts
+PLAC9	Fibroblasts
+SCARF2	Fibroblasts
+WISP1	Fibroblasts
+CNTN3	Fibroblasts
+FIBIN	Fibroblasts
+COL12A1	Fibroblasts
+COL12A1	Fibroblasts
+MASP1	Fibroblasts
+KRTAP1-5	Fibroblasts
+KRTAP1-5	Fibroblasts
+COL12A1	Fibroblasts
+PARVA	Fibroblasts
+GREM2	Fibroblasts
+WISP1	Fibroblasts
+LOC100507165	Fibroblasts
+CCDC80	Fibroblasts

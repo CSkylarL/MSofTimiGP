@@ -1,0 +1,29 @@
+CellType	Gene	Dataset
+aDC	CLEC4C	Charoentong2017
+aDC	SLAMF9	Charoentong2017
+aDC	CD207	Charoentong2017
+CD56bright NK	CDHR1	Charoentong2017
+CD56bright NK	CSTB	Charoentong2017
+CD4 Tcm	KLF5	Charoentong2017
+CD8 Tcm	ADAM12	Charoentong2017
+CD8 Tcm	FCGR3B	Charoentong2017
+CD4 Tem	TAL1	Charoentong2017
+CD8 Tem	CD55	Charoentong2017
+CD8 Tem	APOL3	Charoentong2017
+CD8 Tem	CFLAR	Charoentong2017
+CD8 Tem	CCR5	Charoentong2017
+CD8 Tem	NFKBIA	Charoentong2017
+CD8 Tem	HAPLN3	Charoentong2017
+CD8 Tem	HLA-DMB	Charoentong2017
+CD8 Tem	HLA-DPA1	Charoentong2017
+CD8 Tem	FCRL6	Charoentong2017
+Tgd	FADD	Charoentong2017
+Tgd	KRT80	Charoentong2017
+Monocyte	MBP	Charoentong2017
+NKT	EMR1	Charoentong2017
+Neutrophil	CHST15	Charoentong2017
+Neutrophil	MMP25	Charoentong2017
+Neutrophil	CXCR2	Charoentong2017
+Th1	CD52	Charoentong2017
+Th1	TRAF3IP2	Charoentong2017
+Th1	STAC	Charoentong2017
