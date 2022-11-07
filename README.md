@@ -16,3 +16,4 @@ For more information, please click here: https://github.com/CSkylarL/TimiGP
 Those codes and the TimiGP package are intended for research use only. 
 
 If you use TimiGP or these codes in your publication, please cite the paper: 
+Li, Chenyang et al. "TimiGP: inferring inter-cell functional interactions and clinical values in the tumor immune microenvironment through gene pairs." (In submission).
