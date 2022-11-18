@@ -8,12 +8,13 @@ This includes all codes and data used in TimiGP manuscript.
 
 ## TimiGP 
 
-TimiGP is an `R package` to infer cell interactions and clinical values in tumor immune microenvironment through gene pairs.
+TimiGP is an [R package](https://github.com/CSkylarL/TimiGP) to infer cell interactions and clinical values in tumor immune microenvironment through gene pairs.
 
-For more information, please click here: https://github.com/CSkylarL/TimiGP
+For more details, please read our manuscript: [TimiGP: inferring inter-cell functional interactions and clinical values in the tumor immune microenvironment through gene pairs.](https://www.biorxiv.org/content/biorxiv/early/2022/11/18/2022.11.17.515465.full.pdf)
 
 ## Citation
 Those codes and the TimiGP package are intended for research use only. 
 
 If you use TimiGP or these codes in your publication, please cite the paper: 
-Li, Chenyang et al. "TimiGP: inferring inter-cell functional interactions and clinical values in the tumor immune microenvironment through gene pairs." (In submission).
+
+Li, C. et al. TimiGP: inferring inter-cell functional interactions and clinical values in the tumor immune microenvironment through gene pairs. bioRxiv, 2022.2011.2017.515465 (2022).
