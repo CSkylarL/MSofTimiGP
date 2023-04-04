@@ -79,7 +79,7 @@ QV <- p.adjust(pval, method="BH")
 cox_img_res <- data.frame(HR=hr, PV=pval, QV=QV)
 row.names(cox_img_res) <- row.names(mygrp)
 
-# b) example(Related to Figure 1D and S3)----------------------------------------
+# b) example(Related to Figure 1D and S2)----------------------------------------
 good.gene <- rownames(resdata)[which(resdata$group == "Favorable")]
 good.exp <- TimiPrePropress(marker = good.gene,rna = SKCM06rna,
                             cohort = rownames(info),
@@ -392,7 +392,7 @@ dev.off()
 
 
 
-# d) correlation heatmap(Related to Figure 1C and S2A)-----------------------------
+# d) correlation heatmap(Related to Figure 1C and S1)-----------------------------
 # all gene
 col_fun <- colorRamp2(c(-1, 0, 1), c("blue", "white", "red"))
 cor.all <- cor(t(rna), method ="pearson")
@@ -510,7 +510,7 @@ tmp$Methods <- names(myfile[i])
 
 marker <- rbind(marker,tmp)
 
-# b) correlation & heatmap(Related to Figure S1B-H) ----------------------------
+# b) correlation & heatmap(Related to Figure S1) ----------------------------
 t <- table(marker$Methods)
 t <- names(t)
 p <- list()
@@ -656,7 +656,7 @@ for (i in 1:length(mid)){
 
 
 #[2.3] Survival Analysis========================================================
-# a) cox regression(Related to Table S1, Figure 1A) ----------------------------
+# a) cox regression(Related to Table S2, Figure 1A) ----------------------------
 library(dplyr)
 rm(list=ls())
 myinf1 <- "~/Mypackage/MSofTimiGP/Fig1/Immune_Infiltration.rda"

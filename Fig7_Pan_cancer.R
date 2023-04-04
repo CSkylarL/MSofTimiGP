@@ -265,7 +265,7 @@ for (ct in 1:length(cancer_type)) {
   score$Cancer.Type <- type
   score_all <- rbind(score_all,score)
   
-  # c) Export PAAD resutls(related Figure S10)----------------------------------
+  # c) Export PAAD resutls(related Figure S5)----------------------------------
   if(type == "PAAD"){
     # Cell Chord Diagram
     pdf(paste0(myoutd,"PAAD_circle.pdf"),width = 8,height = 9,)
@@ -307,7 +307,7 @@ for (i in cancer_type){
 # }
 # save(Bindea2013c_enrich_TCGA_pancancer,file = myoutf1)
 
-# [4] Figure 6 #################################################################
+# [4] Figure 7 #################################################################
 rm(list=ls())
 library(dplyr)
 library(reshape)
@@ -401,7 +401,7 @@ print(p1)
 
 dev.off()
 
-# [5]Figure S9 #################################################################
+# [5]Figure S5 #################################################################
 rm(list=ls())
 library(dplyr)
 library(ggplot2)

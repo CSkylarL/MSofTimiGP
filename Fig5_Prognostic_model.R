@@ -1,5 +1,5 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-# TimiGP manuscript Fig4
+# TimiGP manuscript Fig5
 # Date: 08/31/2022
 # Author: Chenyang Skylar Li
 # Note: 
@@ -14,10 +14,9 @@
 #     example/example02_Charoentong2017_Bindea2013_Xu2018_Immune.R
 #     to generate Immune3_MPS_SKCM06.rda
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# [0] validation set ###########################################################
+#+# [0] validation set ###########################################################
 # Due to the size limitation of github
 # The validation.dataset.rda has been splitted as belows to upload to github
-
 # Please run below codes to re-combine the seperate files
 mydir <- "~/Mypackage/MSofTimiGP/Fig4/validation.dataset/"
 myfile <- list.files(path = mydir)
@@ -31,8 +30,8 @@ for (i in 1: length(myfile)){
 }
 
 save(validation.dataset, 
-file = "~/Mypackage/MSofTimiGP/Fig4/validation.dataset.rda")
-# [1] LASSO for prognostic or enrich pairs (related to Figure 4B, Table S4)#####
+     file = "~/Mypackage/MSofTimiGP/Fig5/validation.dataset.rda")
+# [1] LASSO for prognostic or enrich pairs (related to Figure 5B, Table S4)#####
 rm(list = ls())
 library(TimiGP)
 
@@ -40,12 +39,12 @@ library(glmnet)
 library(doMC)
 registerDoMC(cores = 50)
 
-myinf1 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
+myinf1 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
 # Please follow the example/example02_Charoentong2017_Bindea2013_Xu2018_Immune.R
 # to generate Immune3_MPS_SKCM06
 
 myinf2 <- "~/Mypackage/MSofTimiGP/Fig3/Immune3_enrich_SKCM06.rda"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/lasso_res.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/lasso_res.rda"
 
 # [1.1] LASSO ==================================================================
 load(myinf1)
@@ -144,10 +143,10 @@ save(lasso_res, file = myoutf1)
 
 # [1.2]  Frequency of predictors================================================
 rm(list = ls())
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig4/lasso_res.rda"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig5/lasso_res.rda"
 myinf2 <- "~/Mypackage/MSofTimiGP/Fig3/Immune3_enrich_SKCM06.rda"
 
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/LASSO_predictor.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/LASSO_predictor.rda"
 
 load(myinf1)
 
@@ -240,10 +239,10 @@ for (i in 1:length(prognosticGP)) {
 
 save(Predictor.Enrich,Predictor.Prognostic,freq_res, file = myoutf1)
 
-# [1.3] Figure 4B ##############################################################
+# [1.3] Figure 5B ##############################################################
 rm(list = ls())
-myinf1  <- "~/Mypackage/MSofTimiGP/Fig4/LASSO_predictor.rda"
-myoutf1  <- "~/Mypackage/MSofTimiGP/Fig4/Compare_LASSO.pdf"
+myinf1  <- "~/Mypackage/MSofTimiGP/Fig5/LASSO_predictor.rda"
+myoutf1  <- "~/Mypackage/MSofTimiGP/Fig5/Compare_LASSO.pdf"
 
 load(myinf1)
 
@@ -355,12 +354,12 @@ print(p)
 dev.off()
 
 
-#[2] Examine single interaction TimiRS model(Related to Figure 4C,D) ###########
+#[2] Examine single interaction TimiRS model(Related to Figure 5C,D) ###########
 rm(list = ls())
-myinf1 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
-myinf2 <- "~/Mypackage/MSofTimiGP/Fig4/validation.dataset.rda"
+myinf1 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
+myinf2 <- "~/Mypackage/MSofTimiGP/Fig5/validation.dataset.rda"
 myinf3 <- "~/Mypackage/MSofTimiGP/Fig3/Immune3_enrich_SKCM06.rda"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/cell.interaction.prognostic.value.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/cell.interaction.prognostic.value.rda"
 
 # a) "Training" sets------------------------------------------------------------
 data("SKCM06info")
@@ -470,7 +469,7 @@ for ( i in 1:nrow(resdata)){
 
 save(resdata,file = myoutf1)
 
-# d) Figure 4C,D ---------------------------------------------------------------
+# d) Figure 5C,D ---------------------------------------------------------------
 
 rm(list = ls())
 library(RColorBrewer)
@@ -478,9 +477,9 @@ library(VennDiagram)
 library(grid)
 library(ggplot2)
 library(dplyr)
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig4/cell.interaction.prognostic.value.rda"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig5/cell.interaction.prognostic.value.rda"
 
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/cell.interaction.prognostic.value.pdf"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/cell.interaction.prognostic.value.pdf"
 
 load(myinf1)
 
@@ -521,7 +520,7 @@ sum <- rbind(sum,data.frame(
                               "Cirenajwis_GSE65904","Jonsson_GSE22155",
                               "Jayawardana_GSE54467","Mann_GSE53118",
                               "Xu_GSE8401")))
-# Figure 4C
+# Figure 5C
 p <- ggplot() +
   geom_bar(data = sum,
            mapping = aes(x = DS,y=Percentage,fill = DS),
@@ -555,7 +554,7 @@ p <- ggplot() +
   guides(fill = "none")
 
 
-# Figure 4D
+# Figure 5D
 col<-brewer.pal(9,"Set1")[c(1,5,3,2,4)]
 venn.plot <- venn.diagram(
   listInput[-1],
@@ -609,7 +608,7 @@ dev.off()
 
  
 #[3] Develop TimiGP model based on TimiGP CD8 Tem ##############################
-#[3.1]selected interactions(related to figure S6)===============================
+#[3.1]selected interactions(related to figure S4)===============================
 rm(list = ls())
 
 library(TimiGP)
@@ -617,7 +616,7 @@ library(TimiGP)
 myinf1 <- "~/Mypackage/MSofTimiGP/Fig3/Immune3_enrich_SKCM06.rda"
 
 
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/selected_interactions.pdf"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/selected_interactions.pdf"
 
 load(myinf1)
 resdata <- Immune3_enrich_SKCM06$Charoentong2017 %>% 
@@ -646,12 +645,12 @@ library(TimiGP)
 library(glmnet)
 library(doMC)
 registerDoMC(cores = 50)
-myinf1 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
+myinf1 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
 myinf2 <- "~/Mypackage/MSofTimiGP/Fig3/Immune3_enrich_SKCM06.rda"
 
 
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/lasso_res_selected.rda"
-myoutf3 <- "~/Mypackage/MSofTimiGP/Fig4/selected_interactions.pdf"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/lasso_res_selected.rda"
+myoutf3 <- "~/Mypackage/MSofTimiGP/Fig5/selected_interactions.pdf"
 
 load(myinf1)
 data("SKCM06info")
@@ -718,13 +717,13 @@ lasso_res_selected <- lasso_res
 cv.lassoModel_selected <- cv.lassoModel
 save(lasso_res_selected, file = myoutf1)
 
-#[3.3] select num(21) of predictor (related to Figure 4E-F,S7-8 Table S6)=======
+#[3.3] select num(21) of predictor (related to Figure 5E-F,S4 Table S6)=======
 rm(list = ls())
-myinf1 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
-myinf2 <- "~/Mypackage/MSofTimiGP/Fig4/validation.dataset.rda"
-myinf3 <-  "~/Mypackage/MSofTimiGP/Fig4/lasso_res_selected.rda"
+myinf1 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
+myinf2 <- "~/Mypackage/MSofTimiGP/Fig5/validation.dataset.rda"
+myinf3 <-  "~/Mypackage/MSofTimiGP/Fig5/lasso_res_selected.rda"
 
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/TimiGP_model.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/TimiGP_model.rda"
 
 # a) "Training" set ------------------------------------------------------------
 data("SKCM06info")
@@ -863,10 +862,10 @@ save(resdata.select,file = myoutf1)
 
 #[3.4] Develop control model with features selected from prognostic IMGP========
 rm(list = ls())
-myinf1 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
-myinf2 <- "~/Mypackage/MSofTimiGP/Fig4/validation.dataset.rda"
-myinf3 <- "~/Mypackage/MSofTimiGP/Fig4/LASSO_predictor.rda"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig4/control.rda"
+myinf1 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
+myinf2 <- "~/Mypackage/MSofTimiGP/Fig5/validation.dataset.rda"
+myinf3 <- "~/Mypackage/MSofTimiGP/Fig5/LASSO_predictor.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig5/control.rda"
 
 # a) "Training" ----------------------------------------------------------------
 data("SKCM06info")
@@ -1006,18 +1005,18 @@ library(dplyr)
 library(tidyr)
 library(gridExtra)
 
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig4/TimiGP_model.rda"
-myinf2 <- "~/Mypackage/MSofTimiGP/Fig4/control.rda"
-myinf3 <- "~/Mypackage/MSofTimiGP/Fig4/LASSO_predictor.rda"
-myinf4 <-"~/Mypackage/MSofTimiGP/Fig4/Immune3_MPS_SKCM06.rda"
-myinf5 <- "~/Mypackage/MSofTimiGP/Fig4/validation.dataset.rda"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig5/TimiGP_model.rda"
+myinf2 <- "~/Mypackage/MSofTimiGP/Fig5/control.rda"
+myinf3 <- "~/Mypackage/MSofTimiGP/Fig5/LASSO_predictor.rda"
+myinf4 <-"~/Mypackage/MSofTimiGP/Fig5/Immune3_MPS_SKCM06.rda"
+myinf5 <- "~/Mypackage/MSofTimiGP/Fig5/validation.dataset.rda"
 
-myoutf1 <-  "~/Mypackage/MSofTimiGP/Fig4/KM.pdf"
-myoutf2 <-  "~/Mypackage/MSofTimiGP/Fig4/ROC.pdf"
-myoutf3 <-  "~/Mypackage/MSofTimiGP/Fig4/Cindex.pdf"
+myoutf1 <-  "~/Mypackage/MSofTimiGP/Fig5/KM.pdf"
+myoutf2 <-  "~/Mypackage/MSofTimiGP/Fig5/ROC.pdf"
+myoutf3 <-  "~/Mypackage/MSofTimiGP/Fig5/Cindex.pdf"
 
 
-mydir <- "~/Mypackage/MSofTimiGP/Fig4/network"
+mydir <- "~/Mypackage/MSofTimiGP/Fig5/network"
 dir.create(mydir)
 load(myinf1)
 load(myinf2)
@@ -1025,7 +1024,7 @@ load(myinf3)
 res <- rbind(resdata.prognostic["21",],resdata.select["21",])
 rownames(res) <- res$Model <- c("Control","TimiGP")
 
-# a) Network (related to Figure 4E) --------------------------------------------
+# a) Network (related to Figure 5E) --------------------------------------------
 xx <- res["TimiGP","Predictor"] %>% strsplit("/") %>% unlist()
 se <- which(freq_res$IMGP %in% xx)
 pre.net <- freq_res[se,]
@@ -1036,7 +1035,7 @@ geneset <- CellType_Charoentong2017_Bindea2013_Xu2018_Immune %>%
 NET <- TimiGeneNetwork(resdata = pre.net,select = rownames(pre.net),
                 dataset = "Other",geneset = geneset,export = T,path = mydir )
 
-# b) KM plot & ROC (related to figure 4F, S7,S8)----
+# b) KM plot & ROC (related to figure 5F, S6)----
 
 
 
@@ -1264,7 +1263,7 @@ dev.off()
 pdf(myoutf2,width = 20,height = 10)
 do.call("grid.arrange", c(plotlist = p.roc, ncol=2))
 dev.off() 
-# c) C-index (related to figure 4F, S7)-----------------------------------------
+# c) C-index (related to figure 5F, S6)-----------------------------------------
 colnames(res[13:18])
 
 sum <- res[c(13:18,27)]

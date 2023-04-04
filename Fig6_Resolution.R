@@ -1,5 +1,5 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-# TimiGP manuscript Fig5
+# TimiGP manuscript Fig6
 # Date: 8/27/2022
 # Author: Chenyang Skylar Li
 # Note: 
@@ -8,12 +8,12 @@
 rm(list = ls())
 library(TimiGP)
 
-#[1] Tirosh2016_melanoma_TME(Related to Figure 5B,C)############################
+#[1] Tirosh2016_melanoma_TME(Related to Figure 6B,C)############################
 # The tutorial is example/example04_Tirosh2016_melanoma_TME.R
 # You can learn how to generate data("melanoma_TME_COX_MP_SKCM06") there
 
 rm(list=ls())
-outdir <- "~/Mypackage/MSofTimiGP/Fig5/Tirosh2016_melanoma_TME/"
+outdir <- "~/Mypackage/MSofTimiGP/Fig6/Tirosh2016_melanoma_TME/"
 data("melanoma_TME_COX_MP_SKCM06")
 cox_res <- melanoma_TME_COX_MP_SKCM06
 
@@ -45,12 +45,12 @@ print(p1)
 dev.off()
 
 
-#[2] Zheng2021_Tcell(Related to Figure 5D,E)####################################
+#[2] Zheng2021_Tcell(Related to Figure 6D,E)####################################
 # The tutorial is example/example04_Zheng2021_Tcell.R
 # You can learn how to generate data(Tcell_COX_MP_SKCM06) there
 
 rm(list=ls())
-outdir <- "~/Mypackage/MSofTimiGPt/Fig5/Zheng2021_Tcell/"
+outdir <- "~/Mypackage/MSofTimiGPt/Fig6/Zheng2021_Tcell/"
 data(Tcell_COX_MP_SKCM06)
 cox_res <- Tcell_COX_MP_SKCM06
 
