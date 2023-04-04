@@ -1,5 +1,5 @@
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-# TimiGP manuscript Fig6
+# TimiGP manuscript Fig7
 # Date: 09/06/2022
 # Author: Chenyang Skylar Li
 # Note: 
@@ -17,8 +17,8 @@ rm(list=ls())
 
 myinf1 <- "~/geneset/TCGA/TCGA_Firehose_RNASeqV2_expr.rda"
 # You can download the above files from https://gdac.broadinstitute.org/
-myoutf1<- "~/Mypackage/MSofTimiGP/Fig6/clinical_survival_statistic.txt"
-myoutf2<- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_COX_MP_TCGA_pancancer.rda"
+myoutf1<- "~/Mypackage/MSofTimiGP/Fig7/clinical_survival_statistic.txt"
+myoutf2<- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_COX_MP_TCGA_pancancer.rda"
 ## a) load  RNA-----------------------------------------------------------------
 load(myinf1)
 rna_all <- mydata
@@ -179,7 +179,7 @@ for (ct in 1:length(cancer_type)) {
 save(Bindea2013c_COX_MP_TCGA_pancancer,file=myoutf2)
 # Due to the size limitation of github
 # The .rda has been splited as belows to upload to github
-mydir <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_COX_MP_TCGA_pancancer/"
+mydir <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_COX_MP_TCGA_pancancer/"
 cancer_type <- names(Bindea2013c_COX_MP_TCGA_pancancer)
 for (i in cancer_type){
   write.csv(file = paste0(mydir,i,".csv"),
@@ -189,7 +189,7 @@ for (i in cancer_type){
 
 # You can choose above codes to generate "Bindea2013c_COX_MP_TCGA_pancancer.rda"
 # Or you can use the re-combine the seperate files by following codes:
-# mydir <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_COX_MP_TCGA_pancancer/"
+# mydir <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_COX_MP_TCGA_pancancer/"
 # myfile <- list.files(path = mydir)
 # Bindea2013c_COX_MP_TCGA_pancancer <- list()
 # for (i in 1: length(myfile)){
@@ -204,10 +204,10 @@ for (i in cancer_type){
 
 rm(list=ls())
 library(dplyr)
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_COX_MP_TCGA_pancancer.rda"
-myoutd <- "~/Mypackage/MSofTimiGP/Fig6/"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_enrich_TCGA_pancancer.rda"
-myoutf2 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_score_TCGA_pancancer.rda"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_COX_MP_TCGA_pancancer.rda"
+myoutd <- "~/Mypackage/MSofTimiGP/Fig7/"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_enrich_TCGA_pancancer.rda"
+myoutf2 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_score_TCGA_pancancer.rda"
 
 load(myinf1)
 cancer_type <- names(Bindea2013c_COX_MP_TCGA_pancancer)
@@ -287,7 +287,7 @@ save(Bindea2013c_score_TCGA_pancancer,file = myoutf2)
 
 # Due to the size limitation of github
 # The .rda has been splited as belows to upload to github
-mydir <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_enrich_TCGA_pancancer/"
+mydir <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_enrich_TCGA_pancancer/"
 cancer_type <- names(Bindea2013c_enrich_TCGA_pancancer)
 for (i in cancer_type){
   write.csv(file = paste0(mydir,i,".csv"),
@@ -297,7 +297,7 @@ for (i in cancer_type){
 
 # You can choose above codes to generate "Bindea2013c_enrich_TCGA_pancancer.rda"
 # Or you can use the re-combine the seperate files by following codes:
-# mydir <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_enrich_TCGA_pancancer/"
+# mydir <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_enrich_TCGA_pancancer/"
 # myfile <- list.files(path = mydir)
 # Bindea2013c_enrich_TCGA_pancancer <- list()
 # for (i in 1: length(myfile)){
@@ -313,8 +313,8 @@ library(dplyr)
 library(reshape)
 library(ggplot2)
 library(scatterpie)
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_score_TCGA_pancancer.rda"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_score_pie.pdf"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_score_TCGA_pancancer.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_score_pie.pdf"
 load(myinf1)
 resdata <- Bindea2013c_score_TCGA_pancancer
 rm(Bindea2013c_score_TCGA_pancancer)
@@ -410,8 +410,8 @@ library(grid)
 library(scales)
 
 
-myinf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_enrich_TCGA_pancancer.rda"
-myoutf1 <- "~/Mypackage/MSofTimiGP/Fig6/Bindea2013c_top_interaction_dotplot.pdf"
+myinf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_enrich_TCGA_pancancer.rda"
+myoutf1 <- "~/Mypackage/MSofTimiGP/Fig7/Bindea2013c_top_interaction_dotplot.pdf"
 load(myinf1)
 
 resdata <- NULL
