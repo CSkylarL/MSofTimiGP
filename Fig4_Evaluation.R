@@ -292,10 +292,6 @@ p.data <- matrix(nrow = length(DS),ncol = length(DS))
 colnames(p.data) <- rownames(p.data) <- DS
 p.value <- p.data
 # Tversky index 
-
-DS <- unique(resdata$Dataset)
-p.data <- matrix(nrow = length(DS),ncol = length(DS))
-colnames(p.data) <- rownames(p.data) <- DS
 for ( i in 1:nrow(p.data)){
   tmpi <- resdata %>% 
     filter(Dataset == rownames(p.data)[i]) %>% 
