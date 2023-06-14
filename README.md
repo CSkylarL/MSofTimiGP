@@ -1,4 +1,5 @@
 # MSofTimiGP
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8035324.svg)](https://doi.org/10.5281/zenodo.8035324)
 This includes all codes and data used in TimiGP manuscript.
   1. `.R` files: R codes to generate the corresponding figures.
   2. `Fig` folders: data and original figures
