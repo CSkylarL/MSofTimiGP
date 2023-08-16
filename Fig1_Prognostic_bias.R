@@ -80,7 +80,16 @@ cox_img_res <- data.frame(HR=hr, PV=pval, QV=QV)
 row.names(cox_img_res) <- row.names(mygrp)
 
 # b) example(Related to Figure 1D and S2)----------------------------------------
-good.gene <- rownames(resdata)[which(resdata$group == "Favorable")]
+tmp <- cox_img_res
+tmp$group <- as.factor(
+  ifelse(
+    tmp$QV < 0.05,
+    ifelse(tmp$HR < 1, "Favorable", "Unfavorable"),
+    "NS"
+  )
+)
+
+good.gene <- rownames(tmp)[which(tmp$group == "Favorable")]
 good.exp <- TimiPrePropress(marker = good.gene,rna = SKCM06rna,
                             cohort = rownames(info),
                             log = T,GMNorm = T)
