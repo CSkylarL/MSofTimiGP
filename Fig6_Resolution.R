@@ -10,11 +10,36 @@ library(TimiGP)
 
 #[1] Tirosh2016_melanoma_TME(Related to Figure 6B,C)############################
 # The tutorial is example/example04_Tirosh2016_melanoma_TME.R
-# You can learn how to generate data("melanoma_TME_COX_MP_SKCM06") there
+# You can learn how to generate melanoma_TME_COX_MP_SKCM06.rda there
+
+
+
+#' COX regression Results from function TimiCOX with cell type meaker annotated by Tirosh2016_melanoma_TME
+#'
+#' An intermediate result generated from function TimiCOX
+#' that reveals the association between each marker pairs and favorable prognosis.
+#' 
+#' @docType data
+#'
+#' @usage data(melanoma_TME_COX_MP_SKCM06)
+#' 
+#' @keywords intermediate result
+#' 
+#' @format A data frame with 73536 rows and 3 variables:
+#' \describe{
+#'   \item{Row name}{Marker pair}
+#'   \item{HR}{Hazard.Ratio}
+#'   \item{PV}{P-Value}
+#'   \item{QV}{Adjust P-value}
+#' }
+#' 
+#' 
+#' @source intermediate result generated from function TimiCOX
+# "melanoma_TME_COX_MP_SKCM06"
 
 rm(list=ls())
 outdir <- "~/Mypackage/MSofTimiGP/Fig6/Tirosh2016_melanoma_TME/"
-data("melanoma_TME_COX_MP_SKCM06")
+load(paste0(outdir, "melanoma_TME_COX_MP_SKCM06.rda"))
 cox_res <- melanoma_TME_COX_MP_SKCM06
 
 # a) Enrichment ----------------------------------------------------------------
@@ -47,11 +72,37 @@ dev.off()
 
 #[2] Zheng2021_Tcell(Related to Figure 6D,E)####################################
 # The tutorial is example/example04_Zheng2021_Tcell.R
-# You can learn how to generate data(Tcell_COX_MP_SKCM06) there
+# You can learn how to generate Tcell_COX_MP_SKCM06.rda there
+
+
+
+
+#' COX regression Results from function TimiCOX with cell type meaker annotated by Zheng2021_Tcell
+#'
+#' An intermediate result generated from function TimiCOX
+#' that reveals the association between each marker pairs and favorable prognosis.
+#' 
+#' @docType data
+#'
+#' @usage data(Tcell_COX_MP_SKCM06)
+#' 
+#' @keywords intermediate result
+#' 
+#' @format A data frame with  69006 rows and 3 variables:
+#' \describe{
+#'   \item{Row name}{Marker pair}
+#'   \item{HR}{Hazard.Ratio}
+#'   \item{PV}{P-Value}
+#'   \item{QV}{Adjust P-value}
+#' }
+#' 
+#' 
+#' @source intermediate result generated from function TimiCOX
+# "Tcell_COX_MP_SKCM06"
 
 rm(list=ls())
-outdir <- "~/Mypackage/MSofTimiGPt/Fig6/Zheng2021_Tcell/"
-data(Tcell_COX_MP_SKCM06)
+outdir <- "~/Mypackage/MSofTimiGP/Fig6/Zheng2021_Tcell/"
+load(paste0(outdir, "Tcell_COX_MP_SKCM06.rda"))
 cox_res <- Tcell_COX_MP_SKCM06
 
 # a) Enrichment ----------------------------------------------------------------

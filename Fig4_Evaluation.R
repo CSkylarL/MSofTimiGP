@@ -264,7 +264,7 @@ myinf <- list.files("~/Mypackage/MSofTimiGP/Fig4/",
                     pattern = "enrich_res.rda") %>%.[c(1,3, 7, 2, 5, 6, 4)]
 # load data --------------------------------------------------------
 DS <- 
-  myinf %>% gsub(pattern = "/home/cli15/Mypackage/MSofTimiGP/Fig4/",
+  myinf %>% gsub(pattern = "~/Mypackage/MSofTimiGP/Fig4/",
                  replacement = "") %>%
   gsub(pattern = "/enrich_res.rda",replacement = "") %>% strsplit("_") %>%
   lapply("[[", 2) %>% unlist()
@@ -363,7 +363,7 @@ myinf <- list.files("~/Mypackage/MSofTimiGP/Fig4/",
                     pattern = "enrich_res.rda") %>%.[c(1,3, 7, 2, 5, 6, 4)]
 
 DS <- 
-  myinf %>% gsub(pattern = "/home/cli15/Mypackage/MSofTimiGP/Fig4/",
+  myinf %>% gsub(pattern = "~/Mypackage/MSofTimiGP/Fig4/",
                  replacement = "") %>%
   gsub(pattern = "/enrich_res.rda",replacement = "") %>% strsplit("_") %>%
   lapply("[[", 2) %>% unlist()
@@ -540,10 +540,32 @@ dev.off()
 
 # [6] Charoentong2017_Bindea2013_Xu2018_Immune##################################
 # The tutorial is example/example02_Charoentong2017_Bindea2013_Xu2018_Immune.R
-# You can learn how to generate data(Immune3_COX_MP_SKCM06) there
+# You can learn how to generate Immune3_COX_MP_SKCM06.rda there
 
+#' COX regression Results from function TimiCOX with cell type meaker annotated by Charoentong2017_Bindea2013_Xu2018_Immune
+#'
+#' An intermediate result generated from function TimiCOX
+#' that reveals the association between each marker pairs and favorable prognosis.
+#' 
+#' @docType data
+#'
+#' @usage data(Immune3_COX_MP_SKCM06)
+#' 
+#' @keywords intermediate result
+#' 
+#' @format A list of 3 data frames
+#' \describe{
+#'   \item{Row name}{Marker pair}
+#'   \item{HR}{Hazard.Ratio}
+#'   \item{PV}{P-Value}
+#'   \item{QV}{Adjust P-value}
+#' }
+#' 
+#' 
+#' @source intermediate result generated from function TimiCOX
+# "Immune3_COX_MP_SKCM06"
 rm(list=ls())
-data(Immune3_COX_MP_SKCM06)
+load("~/Mypackage/MSofTimiGP/Fig4/Immune3_COX_MP_SKCM06.rda")
 cox_res <- Immune3_COX_MP_SKCM06
 
 # a) TimiGP --------------------------------------------------------------------
@@ -791,12 +813,36 @@ dev.off()
 
 #[7] Newman2015(Related to Figure S3) ==========================================
 # The tutorial is example/example03_Newman2015_LM22.R
-# You can learn how to generate data("Newman2015_COX_MP_SKCM06") there
+# You can learn how to generate Newman2015_COX_MP_SKCM06.rda there
+
+
+#' COX regression Results from function TimiCOX with cell type meaker annotated by Newman2015_LM22
+#'
+#' An intermediate result generated from function TimiCOX
+#' that reveals the association between each marker pairs and favorable prognosis.
+#' 
+#' @docType data
+#'
+#' @usage data(Newman2015_COX_MP_SKCM06)
+#' 
+#' @keywords intermediate result
+#' 
+#' @format A data frame with 115440 rows and 3 variables:
+#' \describe{
+#'   \item{Row name}{Marker pair}
+#'   \item{HR}{Hazard.Ratio}
+#'   \item{PV}{P-Value}
+#'   \item{QV}{Adjust P-value}
+#' }
+#' 
+#' 
+#' @source intermediate result generated from function TimiCOX
+# "Newman2015_COX_MP_SKCM06"
 
 rm(list=ls())
 outdir <- "~/Mypackage/MSofTimiGP/Fig4/Newman2015/"
 dir.create(outdir)
-data("Newman2015_COX_MP_SKCM06")
+load(paste0(outdir,"Newman2015_COX_MP_SKCM06.rda"))
 cox_res <- Newman2015_COX_MP_SKCM06
 
 # a) Enrichment ----------------------------------------------------------------
